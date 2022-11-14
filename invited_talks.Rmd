@@ -1,0 +1,39 @@
+---
+title: "Invited Talks"
+description: null
+site: distill::distill_website
+---
+
+This section includes professional and on-campus invited talks on miscellaneous topics.
+
+<p>
+17. Demirci, S. *How I prepare a conference paper presentation.* Invited talk at the course of MSE 599 M.s. Seminar, Middle East Technical University, Department of Mathematics and Science Education, Online, November 2022.
+</p>
+
+<p>
+16. Demirci, S. Invited talk at Embassy, Online, February 2022
+</p>
+
+<p>
+15. Demirci, S. Invited talk at Turkish Education Association, Online, August, 2021
+</p>
+
+<p>
+14. Demirci, S. *How I prepare a conference paper presentation.* Invited talk at the graduate seminar course, Middle East Technical University, Department of Mathematics and Science Education, Online, 2021.
+</p>
+
+<p>
+13. Demirci, S. *Climate change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 487 Environmental Science, Middle East Technical University, Department of Mathematics and Science Education, December, 2020
+</p>
+
+<p>
+12. Demirci, S. *Climate change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 487 Environmental Science, Middle East Technical University, Department of Mathematics and Science Education, Fall 2016.
+</p>
+
+<p>
+11. Demirci, S. *Climate change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 475 Climate Change Education for Sustainability, Middle East Technical University, Department of Mathematics and Science Education, Spring 2016
+</p>
+
+<p>
+1-10. Demirci, S. *Climate change: Science, Impacts, and Solutions.* A total of 10 talks were given as a member of Climate Reality Leadership Corps at the Middle East Technical University, Department of Mathematics and Science Education, October 2013 - June 2014.
+</p>

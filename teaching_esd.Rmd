@@ -1,0 +1,28 @@
+---
+title: "Teaching Experiences in Environmental and Sustainability Education"
+description: |
+site: distill::distill_website
+---
+
+As a teaching/research assistant for 8 academic years, I have been a TA for undergraduate and graduate <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> environmental and sustainability education courses </b></a> in the <b> Department of Mathematics and Science Education</b> at Middle East Technical University <b>(METU)</b>, Ankara, Turkey. 
+  
+# Courses Assisted
+
+| **Course Code**   | **Course Name**                                       | **Number of Semesters**
+| :-------           | :----------------------                               | :--------------
+| MSE 487	          | Environmental Science                                 |	5 Semesters (2014 – 2020)
+| MSE 474           | Education and Awareness for Sustainability            | 3 Semesters (2014 – 2020)
+| ELE 477           | Laboratory Applications in Environmental Education    | 2 Semesters (Spring 2012 & 2017)
+| MSE 475           | Climate Change Education for Sustainability           | 1 Semester (Spring 2014) 
+| MSE 536           | Skills on Environmental Issue Investigation           | 1 Semester (Fall 2014)
+
+
+# Tasks
+
+Some of work I have done as a TA for these courses as following:
+
+- Holding office hours 
+- Facilitating outdoor activities
+- Creating educational materials for pre-service science teachers
+- Grading homework and grades
+- Providing personalized feedback homework, quizzes and exams.

@@ -1,0 +1,23 @@
+---
+title: "Project Experience in Statistics and Data Science Education"
+description: |
+    The list of projects that I involved in
+site: distill::distill_website
+---
+
+
+**Project title:** Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education
+
+**Principle Investigator: Dr Sinem Demirci**
+
+**Partners/Collaborators:** Dr Mine Dogucu – UCL,
+
+Assist. Prof. Dr Joshua M. Rosenberg – University of Tennessee, Knoxville, 
+
+Teaching Assoc. Prof. Dr Andrew Zieffler – University of Minnesota
+
+**Funded by:** The Scientific and Technological Research Council of Turkey, TÜBİTAK
+
+**Sponsored by:** University College London
+
+**Role & time spent:** Principal Investigator, 01.08.2022 - 31.07.2023 

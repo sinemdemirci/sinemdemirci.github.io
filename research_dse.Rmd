@@ -1,0 +1,22 @@
+---
+title: "Research in Statistics and Data Science Education"
+description: |
+    This section includes peer reviewed articles, thesis and paper presented in conferences.
+site: distill::distill_website
+---
+
+# Peer Reviewed Articles under Preparation
+
+<p>
+Demirci, S. & İlk-Dag, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data. Prepared to be submitted
+</p>
+
+# Theses
+
+<p>
+Demirci S. (2018). A Closer look to Turkish students' scientific literacy: What do PISA 2015 results tell us? [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/27834" target="_blank"> `r fontawesome::fa(name = "book-bookmark")` </a>
+</p>
+
+<p>
+Demirci S. (2014). Development and validation of human population growth scale in the context of sustainability. [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/23331" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+</p>

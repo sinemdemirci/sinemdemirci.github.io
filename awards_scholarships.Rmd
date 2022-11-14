@@ -1,0 +1,13 @@
+---
+title: "Awards and Scholarships"
+description: |
+site: distill::distill_website
+---
+
+| **Year**    |**Institution**                                                    |**Award/Scholarship**
+| :----       | :-------------------                                              | :--------------
+| 2021        | Scientific and Technological Research Council of Turkey (TUBITAK) | 2219 - Postdoctoral Research Scholarship
+| 2020        | European Educational Research Association (ECER)                  | Bursary Winner for ECER 2020 
+| 2015        | Middle East Technical University (METU)                           | Thesis of the Year
+| 2013        | Scientific and Technological Research Council of Turkey (TUBITAK) | 2224-A International Scientific Events Support Program
+

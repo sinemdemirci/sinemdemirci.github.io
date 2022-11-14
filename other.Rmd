@@ -1,0 +1,32 @@
+---
+title: "Other"
+description: |
+site: distill::distill_website
+---
+
+
+# Book Chapters about Education Policies
+
+4.TEDMEM. (2022). Seçimlerde eğitimin yeri: siyasi partilerin vaatleri, seçmenlerin beklentileri [The role of education in elections: promises of political parties, expectations of voters] (TEDMEM Güncel Yayınlar Dizisi 7). Türk Eğitim Derneği. ISBN: 978-605-74377-3-0. [`r fontawesome::fa(name = "book-bookmark")`](https://tinyurl.com/42dm6pk8) 
+
+
+3.Demirci S. (2022). Öğretmenlik ve mesleki süreç [Teaching and teacher education]. In TEDMEM (Ed.). 2021 eğitim değerlendirme raporu [2021 education assessment report]. (TEDMEM Değerlendirme Dizisi 8) (pp.147-159). Türk Eğitim Derneği. ISBN: 978-605-74377-2-3. [`r fontawesome::fa(name = "book-bookmark")`](https://tinyurl.com/3xz9unnn) 
+
+
+2.TEDMEM (2021). 20. Millî Eğitim Şûrası konularına ilişkin görüş ve öneriler [Remarks and Recommendations on the themes of the 20th National Education Council] (TEDMEM Güncel Yayınlar Dizisi 6). Türk Eğitim Derneği. ISBN: 978-605-74377-1-6. [`r fontawesome::fa(name = "book-bookmark")`](https://tinyurl.com/bdsub3xt)  
+
+
+1.Demirci S. (2021). Salgın sürecinde dünyada ve türkiye’de eğitimin bir yılı [One year in education in the world and in Turkey during the pandemic]. In TEDMEM (Ed.). Türkiye’nin telafi eğitimi yol haritası [Turkey's education recovery roadmap] (TEDMEM Analiz Dizisi 9) (pp.7-22). Türk Eğitim Derneği. ISBN: 978-605-74377-0-9. [`r fontawesome::fa(name = "book-bookmark")`](https://tinyurl.com/2p9y2ctr ) 
+
+
+# Other Publications
+
+
+3.Demirci S. (2021). Öğretmenler, öğrenme ortamları ve okullar [Teachers, learning environments, and schools]. In TEDMEM (Ed.). Bir bakışta eğitim 2021 [Education at a Glance 2021]. [`r fontawesome::fa(name = "book-bookmark")`](https://tedmem.org/mem-notlari/degerlendirme/bir-bakista-egitim-2021) 
+
+
+2.Demirci S. (2021). Öğretmenlerin dijital yeterlikleri [Teacher Digital Competencies]. [`r fontawesome::fa(name = "rss")`](https://tedmem.org/mem-notlari/degerlendirme/ogretmen-dijital-yeterlikleri) 
+
+
+1.Demirci, S. (2021). COVID-19 ve dünyada okulların durumu [COVID-19 and The Status of the Schools Worldwide]. [`r fontawesome::fa(name = "rss")`](https://tedmem.org/covid-19/covid-19-ve-dunyada-okullarin-durumu) 
+

@@ -1,0 +1,42 @@
+---
+title: "Community Service"
+description: null
+site: distill::distill_website
+---
+
+<p>
+9. Volunteer at the charity event for suburban middle school students, Ankara, Turkey, 2022-Present
+</p>
+
+
+<p>
+8. Volunteer at organizing weekend supplementary classes for the middle school students of “Okula Yüz Verin” project, METU Alumni, Ankara, Turkey, 2013-2014
+</p>
+
+<p>
+7. Volunteer at the Charity Project of Construction of School Building “Okula Yüz Verin”, METU Alumni, Ankara, Turkey, 2010-2014
+</p>
+
+<p>
+6. Volunteer at the project of studying with visually impaired students “Engelsiz ODTÜ”, Ankara, Turkey, 2009-2010
+</p>
+
+<p>
+5. Youth Summer Camp Leader at Middle East Technical University, Ankara, Turkey, 2009
+</p>
+
+<p>
+4. Volunteer at Project of Collecting, Sorting, and Recycling Waste “Temiz Eymir”, Ankara, Turkey, 2008-2010
+</p>
+
+<p>
+3. Volunteer at selling UNICEF Cards and Gifts at Middle East Technical University, Ankara, Turkey, 2006-2010
+</p>
+
+<p>
+2. Volunteer at annual charity events for suburban elementary school students in Ankara, Turkey, 2006-2011
+</p>
+
+<p>
+1. Volunteer at organizing wheelchair basketball game and selling the tickets, 2010
+</p>

@@ -1,0 +1,49 @@
+---
+title: "Sinem Demirci"
+image: "sinem_demirci_2.jpeg"
+links:
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-2095-0674"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=r_R0R6wAAAAJ&hl=tr"
+  - label: Email
+    url: "mailto:s.demirci@ucl.ac.uk"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/drsinemdemirci/"
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Bio
+
+<p>I am a (Postdoctoral) Visiting Researcher/Lecturer in the Department of Statistical Science at <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> University College London</b></a>. I am a teacher educator whose interdisciplinary research interests include <b> statistics & data science education </b> and <b> environmental & sustainability education</b>.</p>
+
+---
+
+### Work Experience
+
+|                   |                                                                                                                 | 
+| :------           | :-------------                                                                                                  | :-----------
+| 2022 - Present    | Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> UCL </b> </a>  |Visiting Researcher / Lecturer
+| 2021 - 2022       | <b> <a href = 'https://tedmem.org' target="_blank"> TEDMEM </b> </a>                                            | Soc. and Edu. Research Specialist
+| 2013 - 2020       | Dept. of Math. & Sci. Education, <b> <a href = 'https://metu.edu.tr' target="_blank"> METU </b> </a>            | Teaching & Research Assistant
+
+---
+
+### Education 
+
+
+<b> <a href = 'https://metu.edu.tr' target="_blank"> Middle East Technical University </b> </a>  | Ankara, Turkey
+
+|                   |                                                     |
+| :--------         | :--------------------                              | :----------------:
+| **Degree**        | **Department**                                      | **Date of Graduation**
+| Ph.D.             | Elementary Education                                | Jan 2021
+| M.Sc.             | Statistics                                          | Oct 2018
+| M.Sc.             | Elementary Science and Mathematics Education        | Jan 2014
+| B.Sc.             | Elementary Science Education                        | Jun 2011
+---

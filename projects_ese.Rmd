@@ -1,0 +1,42 @@
+---
+title: "Projects and Services for Elementary Science Education"
+description: |
+    The list of projects and services that I involved in
+site: distill::distill_website
+---
+
+## Projects
+
+**Project title:** In-service Science Teachers’ Teaching Experiences on Atomic Models within the context of History of Science
+
+**Principal Investigator:**  Assoc. Prof. Dr. Elvan Şahin (METU, Dept. of Science and Mathematics Education) 
+
+**Partners/Collaborators:** Prof. Dr. Ayhan Yilmaz - Hacettepe University
+
+Res. Assist. Sinem Demirci - Middle East Technical University
+
+
+**Supported by:** Scientific Research Projects Coordination Unit, Middle East Technical University
+
+**Role & time spent:** Researcher, 1.1.2015 -31.12.2015 
+
+**Project No:** BAP-05-06-2015-001
+
+---
+
+## Service to the Field
+<p>
+4. Jury Member at Science Fair, ODTÜ Geliştirme Vakfı Okulları, Ankara, Turkey, 2020
+</p>
+
+<p>
+3. Jury Member at Science Fair, ODTÜ Geliştirme Vakfı Okulları, Ankara, Turkey, 2016
+</p>
+
+<p>
+2. Jury Member at Science Fair, ODTÜ Geliştirme Vakfı Okulları, Ankara, Turkey, 2014
+</p>
+
+<p>
+1. Jury Member at Science Fair, ODTÜ Geliştirme Vakfı Okulları, Ankara, Turkey, 2013
+</p>

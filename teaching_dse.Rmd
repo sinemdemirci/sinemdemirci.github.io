@@ -1,0 +1,28 @@
+---
+title: "Teaching Experiences in Statistics and Data Science Education"
+description: null
+site: distill::distill_website
+---
+
+As a teaching/research assistant for 8 academic years, I delivered mostly the tutorials and computer practical sessions of undergraduate and graduate <a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> statistics courses </a> in the <b> Department of Mathematics and Science Education </b> at Middle East Technical University <b>(METU)</b>, Ankara, Turkey. I have been also a TA for <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> graduate research & undergraduate practice teaching  courses </b> </a>.
+
+# Courses Assisted
+
+| **Course Code**   | **Course Name**                                       | **Number of Semesters**
+| :-------          | :-----------------------                              | :-----------
+| MSE 501           | Educational Statistics                                | 8 Semesters (2014 – 2020)
+| MSE 309           | Statistical Applications in Education                 | 3 Semesters (2016 – 2020) 
+| MSE 305           | Assessment of Learning in Science and Mathematics     | 2 Semesters (2014 – 2015)
+| MSE 502           | Research Methods and Ethics                           | 1 Semester (Spring 2019)
+| MSE 602           | Advanced Educational Research                         | 1 Semester (Fall 2016)
+| MSE 409 & 410     | Practice Teaching, I & II                             | 6 Semesters (2016 – 2020)
+
+
+# Tasks
+Some of work I have done as a TA for these courses as following:
+
+  * Delivering tutorials and computer practical sessions
+  * Creating and revising educational materials for computer practical sessions
+  * Holding office hours
+  * Grading homework and assigning grades
+  * Providing personalized feedback for homework, quizzes, exams, and lesson plans.

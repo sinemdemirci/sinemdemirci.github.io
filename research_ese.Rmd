@@ -1,0 +1,45 @@
+---
+title: "Publications in Elementary Science Education"
+description: |
+  This section includes peer reviewed articles and paper presented in conferences.
+site: distill::distill_website
+---
+
+# Peer Reviewed Articles
+
+<p>
+1. **Demirci, S.**, Yilmaz, A., & Sahin, E. (2016). Lise ve üniversite öğrencilerinin atomun yapısı ile ilgili zihinsel modellerine genel bir bakış. [An Overview of High School and University Students' Mental Models of the Structure of the Atom]. *Turkiye Kimya Dernegi Dergisi, Kisim C: Kimya Egitimi, 1*(1), 87-106. <a href = "https://dergipark.org.tr/en/pub/jotcsc/issue/30533/330312" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
+
+
+
+# Conference Papers/Presentations
+
+
+<p>
+7. **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Middle School Students’ Perceptions on the Interactions among Water Cycle, Global Warming, and Climate Change. [Paper presentation]. European Conference on Educational Research, Geneva, Switzerland 
+</p>
+
+<p>
+6. **Demirci, S.** (2018). Middle School Students’ Mental Models of the Water Cycle. [Paper presentation]. ERPA International Congresses on Education, Istanbul, Turkey
+</p>
+
+<p>
+5. **Demirci, S.** & Sen, M. (2016). Pre-Service Science Teachers' Misconceptions About Density and Buoyancy. [Paper presentation]. The annual meeting of NARST International Conference toward Equity and Justice: Many Different Voices, Cultures, and Languages in Science Education Research for Quality Science Learning and Teaching, Baltimore, Maryland, U.S.A 
+</p>
+
+<p>
+4. **Demirci, S.**, Sahin, E. & Yilmaz. A. (2015). The Effects of History of Science on Students’ Mental Models Regarding Atomic Models. [Poster presentation]. 11th biannual Conference of the European Science Research Association (ESERA), Helsinki, Finland
+</p>
+
+<p>
+3. Yilmaz, A., Sahin, E. & **Demirci, S.** (2015). Lise ve Üniversite Öğrencilerinin Atomun Yapısı ile İlgili Zihinsel Modellerine Genel Bir Bakış. [Paper presentation]. 4. Ulusal Kimya Eğitimi Kongresi, Balıkesir, Turkey 
+</p>
+
+<p>
+2. **Demirci, S.** & Sen, M. (2015). Fen Bilgisi Öğretmen Adaylarının Yoğunluk Konusunda Kavram Yanılgılarının Belirlenmesi. [Paper presentation]. 2. Ulusal Fizik Eğitimi Kongresi, Ankara, Turkey 
+</p>
+
+<p>
+1. Sahin, E., Yilmaz. A & **Demirci, S.** (2015). A Review of Elementary Students’ Conceptual Understandings of ‘Atom. [Paper presentation]. International Organization for Science and Technology Education (IOSTE), İstanbul, Turkey
+</p>

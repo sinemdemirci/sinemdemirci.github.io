@@ -1,0 +1,104 @@
+---
+title: "Publications in Environmental and Sustainability Education"
+description: |
+  This section includes peer reviewed articles and paper presented in conferences.
+site: distill::distill_website
+---
+
+
+# Peer Reviewed Articles
+
+<p>
+4. **Demirci, S.**, Sahin E., Teksoz, G. & Marcinkowski, T. J. (2021). Pre-Service teachers’ beliefs on human population growth in the context of education for sustainable development: development and validation of an instrument. *Journal of Teacher Education for Sustainability,23*(2), 121-142. 
+<a href = "https://doi.org/10.2478/jtes-2021-0021" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
+
+<p>
+3. **Demirci, S.** & Sahin, E. (2018). An analysis of Turkish middle school science education program placing climate change issues in the context of education for sustainable development. *International Journal of Quality in Education, 2*(1), 13-21. <a href = "https://dergipark.org.tr/en/pub/ijqe/issue/37135/427929" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
+
+<p>
+2. **Demirci, S.** (2018). The context of sustainable development in Turkish elementary science curriculum. *International Journal of Quality in Education, 1*(1), 54-61. <a href = "https://dergipark.org.tr/en/pub/ijqe/issue/37117/427577" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
+
+<p>	
+1. **Demirci, S.** & Teksöz, G. (2017). Self-Efficacy beliefs on integrating sustainability into profession and daily life: in the words of university students. *International Electronic Journal of Environmental Education, 7*(2), 116-133. 
+<a href = "https://files.eric.ed.gov/fulltext/EJ1180990.pdf" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
+
+# Conference Papers/Presentations
+
+<p>
+18. **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Eight-Graders’ Understanding of Hidden Use of Water and Their Action Strategies for Sustainable Use of Water.[Paper presentation]. European Conference on Educational Research, Geneva, Switzerland 
+  <a href = "https://eera-ecer.de/ecer-programmes/conference/26/contribution/50836/" target="_blank">`r fontawesome::fa(name = "link")`</a>
+  <a href="C:\Users\LENOVO\OneDrive - University College London\website-copy\slides\ECER2020_hiddenuseofwater.pdf" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
+</p>
+
+<p>
+17. **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Middle School Students’ Perceptions on the Interactions among Water Cycle, Global Warming, and Climate Change. [Paper presentation]. European Conference on Educational Research, Geneva, Switzerland 
+<a href= "C:\Users\LENOVO\OneDrive - University College London\website-copy\posters\ECER2020_WC_GW_CC.pdf" target="_blank">`r fontawesome::fa(name = "chart-pie")`</a>
+</p>
+
+<p>
+16. **Demirci, S.**, Sahin E. & Teksoz, G. (2020). Redefining Urbanization: in the views of university students. [Paper presentation]. 5th International Symposium on Environment and Morals, Turkey 
+</p>
+
+<p>
+15. **Demirci, S.** & Teksoz, G. (2020). Pre-service Teachers’ Perceptions on the Interactions between COVID-19 Pandemic and the Environment. [Paper presentation]. 5th International Symposium on Environment and Morals, Turkey
+</p>
+
+<p>
+14. **Demirci, S.** & Teksoz, G. (2018). Pre-service Science Teachers’ Skills on Problem/Issue Analysis in Environmental Education. [Paper presentation]. ERPA International Congresses on Education, Istanbul, Turkey
+</p>
+
+<p>
+13. Teksoz, G. & **Demirci, S.** (2017). About the Context of Climate Change Education for Sustainability: In the Words of University Students. [Paper presentation]. 12th Biannual Conference of the European Science Research Association (ESERA), Dublin, Republic of Ireland. 
+</p>
+
+<p>
+12. **Demirci, S.**, Kaplan, G., Cengizoolu, S., & Sen, M. (2017). Pre-service teachers’ Understandings of sustainability based on ontological entities. [Paper presentation]. 26th International Conference on Educational Sciences, Antalya, Turkey
+</p>
+
+<p>
+11. Cengizoglu, S. & **Demirci, S.** (2016). Türkiye’de Yaşayan Çocuklar ve Çevre-İnsan İlişkisi: Bir İçerik Analizi Çalişmasi. [Paper presentation]. UFBMEK 2016, Trabzon, Turkey 
+</p>
+
+<p>
+10. **Demirci, S.** & Cengizoglu, S. (2016). Türkiye’de Okul Öncesi Dönemde Fen Eğitimi’nde Yapilan Çalişmalarin Bölgelere, Değişkenlere ve Örneklem Gruplarina Göre İçerik Analizi. [Poster presentation]. UFBMEK 2016, Trabzon, Turkey
+</p>
+
+<p>
+9. **Demirci, S.** & Sahin E. (2016). An Analysis of Turkish Mıddle School Science Education Program Placing Climate Change Issues in The Context of Education for Sustainable Development. [Paper presentation]. the 14th International JTEFS/BBCC Conference Sustainable Development, Culture, Education: Innovations and Challenges of Teacher Education for Sustainable Development, Konya, Turkey
+</p>
+
+<p>
+8. **Demirci, S.** (2016). The Context of Sustainable Development in Turkish Elementary Science Curriculum. [Paper presentation]. the 14th International JTEFS/BBCC Conference Sustainable Development, Culture, Education: Innovations and Challenges of Teacher Education for Sustainable Development, Konya, Turkey
+</p>
+
+<p>
+7. **Demirci, S.**, Sahin E. & Teksoz, G. (2015). Is the Carrying Capacity Exceeded? Preservice Teachers’ Beliefs on Human Population Growth. [Paper presentation]. The annual meeting of North American Association in Environmental Education, San Diego, California, U.S.A.
+</p>
+
+<p>
+6. **Demirci, S.**, Sahin E. & Teksoz, G. (2015). An Exploration of University Students’ Beliefs on the Sustainable Growth of Human Population. [Paper presentation]. 8th World Environmental Education Congress (WEEC), Gothenburg, Sweden
+</p>
+
+<p>
+5. **Demirci, S.** & Teksoz, G. (2015). ESD in Higher Education: University students’ perceptions of sustainability and its relation to their self-efficacy beliefs to integrate sustainability into their profession and daily lives. [Poster presentation]. the Pathways to the Future: Education for Sustainable Development, Tallinn, Estonia
+</p>
+
+<p>
+4. **Demirci, S.** & Teksoz, G. (2014). Üniversite Öğrencilerinin Sürdürülebilir Kalkınma Kavramını Gelecekteki Meslekleri Ve Günlük Yaşamlarına Birleştirmek Konusundaki Öz-yeterlik İnanışları. [Paper presentation]. UFBMEK 2014, Adana, Turkey
+</p>
+
+<p>
+3. **Demirci, S.**, Sahin E. & Teksoz, G. (2014). What does a Survey Study on Beliefs towards Human Population Growth Imply for Teacher Education? [Paper presentation]. EJER 2014 Congress, İstanbul, Turkey
+</p>
+
+<p>
+2. **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. [Paper presentation]. The annual meeting of North American Association in Environmental Education, Baltimore, Maryland, U.S.A.
+</p>
+
+<p>
+1. **Cokoglu, S.** & Sahin, E. (2012). Beliefs toward Population Growth in Turkey. [Paper presentation]. 1. Ulusal Disiplinlerarası Cevre Kongresi, Sakarya, Turkey
+</p>

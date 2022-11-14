@@ -1,0 +1,31 @@
+---
+title: "Teaching Experiences in Elementary Science Education"
+description: |
+site: distill::distill_website
+---
+
+# Courses Assisted
+
+  As a teaching/research assistant for 8 academic years, I have been a TA for undergraduate and graduate <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> elementary science education courses</b></a> in the in the <b> Department of Mathematics and Science Education </b> at Middle East Technical University <b>(METU)</b>, Ankara, Turkey. 
+  
+  
+| **Course Code**   | **Course Name**                                       | **Number of Semesters**
+| :------           | :-----------------                                    | :-----------
+| MSE 301           | Methods of Science Teaching in Middle Schools I       | 1 Semester (Spring 2017)
+| MSE 302           | Methods of Science Teaching in Middle Schools II      | 1 Semester (Spring 2018)
+| MSE 305           | Assessment of Learning in Science and Math            | 2 Semesters (2014 – 2015)
+| MSE 288           | Community Service                                     | 2 Semesters (2017 – 2019) 
+| MSE 409 & 410     | Practice Teaching, I & II                             | 6 Semesters (2016 – 2020)
+| MSE 531           | Readings in Science Education                         | 1 Semester (Fall 2017)
+| MSE 502           | Research Methods and Ethics                           | 1 Semester (Spring 2019)
+| MSE 602           | Advanced Educational Research                         | 1 Semester (Fall 2016)
+
+
+# Tasks
+
+Some of work I have done as a TA for these courses as following:
+
+- Delivering practical sessions
+- Holding office hours
+- Grading homework and grades
+- Providing personalized feedback for homework, quizzes, exams, and lesson plans.

@@ -1,0 +1,57 @@
+name: "website"
+title: "Sinem Demirci"
+description: |
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Teaching"
+      menu:
+        - text: "Statistics & Data Science Education"
+          href: teaching_dse.html
+        - text: "---"
+        - text: "Environmental & Sustainability Education"
+          href: teaching_esd.html
+        - text: "---"
+        - text: "Science Education"
+          href: teaching_ese.html 
+          
+    - text: "Research"
+      menu:
+        - text: "Statistics & Data Science Education"
+          href: research_dse.html
+        - text: "---"
+        - text: "Environmental & Sustainability Education"
+          href: research_esd.html
+        - text: "---"
+        - text: "Science Education"
+          href: research_ese.html 
+        - text: "---"  
+        - text: "Other Publications"
+          href: other.html 
+
+    - text: "Projects"
+      menu:
+        - text: "Statistics & Data Science Education"
+          href: projects_dse.html
+        - text: "---"
+        - text: "Environmental & Sustainability Education"
+          href: projects_esd.html
+        - text: "---"
+        - text: "Science Education"
+          href: projects_ese.html 
+    - text: "About"
+      menu:
+        - text: "Awards & Scholarships"
+          href: awards_scholarships.html
+        - text: "---"
+        - text: "Invited Talks"
+          href: invited_talks.html
+        - text: "---"
+        - text: "Community Service"
+          href: community_service.html 
+        - text: "---"  
+        - text: "CV"   
+          href: CV_Sinem_Demirci_2022.pdf
+output: 
+  distill::distill_article:
+    css: style.css

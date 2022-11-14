@@ -1,0 +1,64 @@
+---
+title: "Sinem Demirci"
+description: |
+---
+
+
+# Personal Information
+
+E-mail address: s.demirci@ucl.ac.uk
+
+Orcid ID: https://orcid.org/0000-0002-2095-0674 
+
+Google Scholar: https://tinyurl.com/3vam9js8 
+
+
+# Work Experience
+
+|                   |                                                                       | 
+| :-----------      | :-----------                                                          | :-----------
+| 2022 - Present    | Dept. of Statistical Science, University College London               |	(Postdoctoral) Visiting Researcher / Lecturer)
+| 2021 - 2022       | TEDMEM                                                                | Social and Educational Research Specialist (Policy Analyst)
+| 2013 -2020        | Dept. of Math. & Sci. Education, Middle East Technical University     | Teaching & Research Assistant
+
+---
+
+# Education
+
+| **Degree**        | **University**                                                                      | **Year of Graduation**
+| :-----------      | :-----------                                                                        | :-----------:
+| Ph.D.             | Elementary Education, Middle East Technical University                              |	2021
+| M.Sc.             | Statistics, Middle East Technical University                                        | 2018
+| M.Sc.             | Elementary Science and Mathematics Education, Middle East Technical University      | 2014
+| B.Sc.             | Elementary Science Education, Middle East Technical University                      | 2011
+
+---
+
+
+
+FOREIGN LANGUAGES:
+
+	Speaking	Reading	Writing
+English	Advanced	Advanced	Advanced
+German	Pre-intermediate	Intermediate	Intermediate
+Turkish	Advanced	Advanced	Advanced
+
+COMPUTER SKILLS: R Project for Statistical Computing, R Markdown, IBM SPSS Software, LISREL, Git (Version Control) 
+
+AWARDS
+2021	Scientific and Technological Research Council of Turkey	Postdoctoral Research Scholarship
+2021	European Educational Research Association	Bursary Winner for ECER 2020
+2015	Middle East Technical University	Thesis of the Year
+
+
+ACTIVITIES AND COMMUNITY SERVICE
+Jury Member at Science Fair, ODTÜ Geliştirme Vakfı Okulları, Ankara, Turkey, 
+Member of METU Scouts, Ankara, Turkey, 2006-2020
+Leader of METU Scouts, Ankara, Turkey, 2009-2011.
+Head of Education Committee at METU Scouts, 2009-2010
+Youth Summer Camp Leader at Middle East Technical University, Ankara, Turkey, 2009
+Volunteer at Project of Collecting, Sorting, and Recycling Waste “Temiz Eymir”, Ankara, Turkey, 2008-2010 
+Volunteer at annual charity events for suburban elementary school students in Ankara, Turkey, 2006-2011.
+
+PERSONAL INTERESTS: Camping, Pilates, Western concert flute (beginner)
+
