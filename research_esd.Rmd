@@ -43,35 +43,48 @@ site: distill::distill_website
 </p>
 
 <p>
-16. **Demirci, S.**, Sahin E. & Teksoz, G. (2020). Redefining Urbanization: in the views of university students. [Paper presentation]. 5th International Symposium on Environment and Morals, Turkey 
+16. **Demirci, S.**, Sahin E. & Teksoz, G. (2020). Redefining Urbanization: in the views of university students. [Paper presentation]. 5th International Symposium on Environment and Morals, Turkey
+<a href = "https://i-sem.info/en" target="_blank">`r fontawesome::fa(name = "link")`</a>
+<a href = "https://drive.google.com/file/d/1aljEKt9YOpiFoMKLy-eBKi1THG1SxHE8/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+<a href = "https://drive.google.com/file/d/1VeXl5orVvJ6z9YOyk_hoZxe7fYUZYzE3/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
 15. **Demirci, S.** & Teksoz, G. (2020). Pre-service Teachers’ Perceptions on the Interactions between COVID-19 Pandemic and the Environment. [Paper presentation]. 5th International Symposium on Environment and Morals, Turkey
+<a href = "https://i-sem.info/en" target="_blank">`r fontawesome::fa(name = "link")`</a>
+<a href = "https://drive.google.com/file/d/1aljEKt9YOpiFoMKLy-eBKi1THG1SxHE8/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
 </p>
 
 <p>
 14. **Demirci, S.** & Teksoz, G. (2018). Pre-service Science Teachers’ Skills on Problem/Issue Analysis in Environmental Education. [Paper presentation]. ERPA International Congresses on Education, Istanbul, Turkey
+<a href = "https://www.erpacongress.com/upload/dosya/erpa-2018-e-book-of-proceedings-2018_with-isbn_15bc882e42ce0a.pdf" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+<a href = "https://drive.google.com/file/d/1DbYbzMVFpUcWeuZjgNUSWg4xhUAEaLkf/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
-13. Teksoz, G. & **Demirci, S.** (2017). About the Context of Climate Change Education for Sustainability: In the Words of University Students. [Paper presentation]. 12th Biannual Conference of the European Science Research Association (ESERA), Dublin, Republic of Ireland. 
+13. Teksoz, G. & **Demirci, S.** (2017). About the Context of Climate Change Education for Sustainability: In the Words of University Students. [Paper presentation]. 12th Biannual Conference of the European Science Research Association (ESERA), Dublin, Republic of Ireland
+<a href = "https://www.dropbox.com/s/ni7rlwfghggu4eq/ESERA-2018-Printed-Programme-14.8.17.pdf?dl=0" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+<a href = "https://drive.google.com/file/d/1IO96sz0CQaWHzIY460lwP_L0qn5T5k5V/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
-12. **Demirci, S.**, Kaplan, G., Cengizoolu, S., & Sen, M. (2017). Pre-service teachers’ Understandings of sustainability based on ontological entities. [Paper presentation]. 26th International Conference on Educational Sciences, Antalya, Turkey
+12. **Demirci, S.**, Kaplan, G., Cengizoglu, S., & Sen, M. (2017). Pre-service teachers’ Understandings of sustainability based on ontological entities. [Paper presentation]. 26th International Conference on Educational Sciences, Antalya, Turkey
+<a href = "https://drive.google.com/file/d/1k4JZeJnBb3SNmb3-mlIX0BUjVkmTUlFC/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+<a href = "https://drive.google.com/file/d/1zfU0uUB5BJT-DE_O1ZqNy9pTezxk2uvQ/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
-11. Cengizoglu, S. & **Demirci, S.** (2016). Türkiye’de Yaşayan Çocuklar ve Çevre-İnsan İlişkisi: Bir İçerik Analizi Çalişmasi. [Paper presentation]. UFBMEK 2016, Trabzon, Turkey 
+11. Cengizoglu, S. & **Demirci, S.** (2016). Türkiye’de Yaşayan Çocuklar ve Çevre-İnsan İlişkisi: Bir İçerik Analizi Çalişmasi [Human-Environment Interactions of Children in Turkey: A Content Analysis]. UFBMEK 2016 (National Science and Mathematics Education Congress of Turkey), Trabzon, Turkey
+<a href = "https://openaccess.mef.edu.tr/xmlui/bitstream/handle/20.500.11779/514/Bildiri-%C3%96zet-Kitap%C3%A7%C4%B1%C4%9F%C4%B1.pdf?sequence=3&isAllowed=y" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
 </p>
 
 <p>
-10. **Demirci, S.** & Cengizoglu, S. (2016). Türkiye’de Okul Öncesi Dönemde Fen Eğitimi’nde Yapilan Çalişmalarin Bölgelere, Değişkenlere ve Örneklem Gruplarina Göre İçerik Analizi. [Poster presentation]. UFBMEK 2016, Trabzon, Turkey
+10. **Demirci, S.** & Cengizoglu, S. (2016). Türkiye’de Okul Öncesi Dönemde Fen Eğitimi’nde Yapilan Çalişmalarin Bölgelere, Değişkenlere ve Örneklem Gruplarina Göre İçerik Analizi [A Content Analysis of Studies in Preschool Science Education in Turkey by Regions, Variables Used and Sample Groups]. [Poster presentation]. UFBMEK 2016, Trabzon, Turkey
+<a href= "https://drive.google.com/file/d/1i2xsSsXWxePk80cbvw6usVaHhHh2W_7c/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "chart-pie")`</a>
 </p>
 
 <p>
-9. **Demirci, S.** & Sahin E. (2016). An Analysis of Turkish Mıddle School Science Education Program Placing Climate Change Issues in The Context of Education for Sustainable Development. [Paper presentation]. the 14th International JTEFS/BBCC Conference Sustainable Development, Culture, Education: Innovations and Challenges of Teacher Education for Sustainable Development, Konya, Turkey
+9. **Demirci, S.** & Sahin E. (2016). An Analysis of Turkish Middle School Science Education Program Placing Climate Change Issues in The Context of Education for Sustainable Development. [Paper presentation]. the 14th International JTEFS/BBCC Conference Sustainable Development, Culture, Education: Innovations and Challenges of Teacher Education for Sustainable Development, Konya, Turkey
 </p>
 
 <p>
@@ -79,15 +92,21 @@ site: distill::distill_website
 </p>
 
 <p>
-7. **Demirci, S.**, Sahin E. & Teksoz, G. (2015). Is the Carrying Capacity Exceeded? Preservice Teachers’ Beliefs on Human Population Growth. [Paper presentation]. The annual meeting of North American Association in Environmental Education, San Diego, California, U.S.A.
+7. **Demirci, S.**, Sahin E. & Teksoz, G. (2015). Is the Carrying Capacity Exceeded? Preservice Teachers’ Beliefs on Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association in Environmental Education, San Diego, California, U.S.A.
+<a href = "https://drive.google.com/file/d/1e8SUsiPjwaDdaydQV680lpNORPS8fXtz/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>
 6. **Demirci, S.**, Sahin E. & Teksoz, G. (2015). An Exploration of University Students’ Beliefs on the Sustainable Growth of Human Population. [Paper presentation]. 8th World Environmental Education Congress (WEEC), Gothenburg, Sweden
+<a href = "https://weec2015.weecnetwork.org/" target="_blank">`r fontawesome::fa(name = "link")`</a>
+<a href = "https://drive.google.com/file/d/1shuVtXX8W9_Y7PoAr-v1flAtgdeUs3m9/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+<a href = "https://drive.google.com/file/d/1cVaG0nS243RMEbYY7oyH-ZRxYWsn9iqR/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
 5. **Demirci, S.** & Teksoz, G. (2015). ESD in Higher Education: University students’ perceptions of sustainability and its relation to their self-efficacy beliefs to integrate sustainability into their profession and daily lives. [Poster presentation]. the Pathways to the Future: Education for Sustainable Development, Tallinn, Estonia
+<a href = "https://drive.google.com/file/d/1VQ_kpGZ6osOIeK2rKH4bj4IJDua9fNxL/view?usp=sharing" target="_blank">`r fontawesome::fa(name = "file-lines")` </a>
+<a href= "https://drive.google.com/file/d/1GkD1mCl9Ms2mJqxdOLG352ohNe5aD-Hd/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "chart-pie")`</a>
 </p>
 
 <p>
@@ -96,10 +115,13 @@ site: distill::distill_website
 
 <p>
 3. **Demirci, S.**, Sahin E. & Teksoz, G. (2014). What does a Survey Study on Beliefs towards Human Population Growth Imply for Teacher Education? [Paper presentation]. EJER 2014 Congress, İstanbul, Turkey
+<a href = "https://ejercongress.org/2014/" target="_blank">`r fontawesome::fa(name = "link")`</a>
 </p>
 
 <p>
-2. **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. [Paper presentation]. The annual meeting of North American Association in Environmental Education, Baltimore, Maryland, U.S.A.
+2. **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association in Environmental Education, Baltimore, Maryland, U.S.A.
+<a href = "https://drive.google.com/file/d/1JdAmBbiFuCFGvo9JMJKTIuiWE86c3r-c/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "book-bookmark")`</a>
+<a href = "https://convention2.allacademic.com/one/naaee/naaee13/index.php?cmd=Download+Document&key=view_session_file&file_index=2&pop_up=true&no_click_key=true&attachment_style=inline&PHPSESSID=6tiiqqampfcu6eo6223ca9oa58" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>
