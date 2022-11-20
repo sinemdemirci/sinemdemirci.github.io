@@ -11,11 +11,11 @@ site: distill::distill_website
   
 | **Course Code**   | **Course Name**                                       | **Number of Semesters**
 | :------           | :-----------------                                    | :-----------
+| MSE 409 & 410     | Practice Teaching, I & II                             | 6 Semesters (2016 – 2020)
+| MSE 305           | Assessment of Learning in Science and Math            | 2 Semesters (2014 – 2015)
+| MSE 288           | Community Service                                     | 2 Semesters (2017 – 2019)
 | MSE 301           | Methods of Science Teaching in Middle Schools I       | 1 Semester (Spring 2017)
 | MSE 302           | Methods of Science Teaching in Middle Schools II      | 1 Semester (Spring 2018)
-| MSE 305           | Assessment of Learning in Science and Math            | 2 Semesters (2014 – 2015)
-| MSE 288           | Community Service                                     | 2 Semesters (2017 – 2019) 
-| MSE 409 & 410     | Practice Teaching, I & II                             | 6 Semesters (2016 – 2020)
 | MSE 531           | Readings in Science Education                         | 1 Semester (Fall 2017)
 | MSE 502           | Research Methods and Ethics                           | 1 Semester (Spring 2019)
 | MSE 602           | Advanced Educational Research                         | 1 Semester (Fall 2016)
