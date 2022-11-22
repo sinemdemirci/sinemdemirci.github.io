@@ -47,6 +47,9 @@ navbar:
         - text: "Invited Talks"
           href: invited_talks.html
         - text: "---"
+        - text: "Journal/Conference Proposal Reviewing"
+          href: refereeing.html
+        - text: "---"
         - text: "Community Service"
           href: community_service.html 
         - text: "---"  
