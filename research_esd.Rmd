@@ -121,7 +121,7 @@ site: distill::distill_website
 <p>
 2. **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association in Environmental Education, Baltimore, Maryland, U.S.A.
 <a href = "https://drive.google.com/file/d/1JdAmBbiFuCFGvo9JMJKTIuiWE86c3r-c/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "book-bookmark")`</a>
-<a href = "https://convention2.allacademic.com/one/naaee/naaee13/index.php?&obf_var=3046419&PHPSESSID=hfn3lr1ive5laip4abh0b7mvhk" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+<a href = "https://convention2.allacademic.com/one/naaee/naaee13/" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>
