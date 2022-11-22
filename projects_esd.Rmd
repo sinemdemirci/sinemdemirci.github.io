@@ -6,11 +6,11 @@ site: distill::distill_website
 ---
 
 
-**Project title:** From Waste to Fertilizer 3 - Composting
+**Project title:** Copten Gubreye 3 [<a href = "https://tbm.metu.edu.tr/cevre-egitimleri-projeler/" target="_blank"> From Waste to Fertilizer 3 - Composting</a>]
 
 **Principal Investigator:** Dr. Serap Bilen (METU, Society and Science Application and Research Center) 
 
-**Supported by:** The Scientific and Technological Research Council of Turkey, TÜBİTAK
+**Supported by:** The Scientific and Technological Research Council of Turkey, TUBİTAK
 
 **Role & time spent:** Trainer, 08.04.2019 - 19.04.2019 
 
@@ -18,13 +18,13 @@ site: distill::distill_website
 
 ---
 
-**Project title:** From Waste to Fertilizer 1 - Composting
+**Project title:** Copten Gubreye! [<a href = "https://tbm.metu.edu.tr/cevre-egitimleri-projeler/" target="_blank"> From Waste to Fertilizer 1 - Composting</a>]
 
 **Principal Investigator:** Dr. Serap Bilen (METU, Society and Science Application and Research Center) 
 
-**Supported by:** The Scientific and Technological Research Council of Turkey, TÜBİTAK
+**Supported by:** The Scientific and Technological Research Council of Turkey, TUBİTAK
 
-**Role & time spent:** Trainer, 09.10.2017 -30.10.2017 
+**Role & time spent:** Trainer, 09.10.2017 - 30.10.2017 
 
 **Project No:** 117B056
 
@@ -32,11 +32,11 @@ site: distill::distill_website
 
 **Project title:** University Students’ Beliefs on Human Population Growth 
 
-**Principal Investigator:** Assoc. Prof. Dr. Elvan ŞAHİN (METU, Dept. of Science and Mathematics Education) 
+**Principal Investigator:** Assoc. Prof. Dr. Elvan Sahin (METU, Dept. of Science and Mathematics Education) 
 
 **Supported by:** Scientific Research Projects Coordination Unit, Middle East Technical University
 
-**Role & time spent:** Researcher, 1.1.2013 -31.12.2013 
+**Role & time spent:** Researcher, 1.1.2013 - 31.12.2013 
 
 **Project No:** BAP-07-03-2013-010
 
