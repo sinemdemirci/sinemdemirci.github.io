@@ -8,7 +8,7 @@ site: distill::distill_website
 
 **Project title:** Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education
 
-**Principle Investigator: Dr Sinem Demirci**
+**Principle Investigator:** Dr Sinem Demirci
 
 **Partners/Collaborators:** Dr Mine Dogucu – UCL,
 
