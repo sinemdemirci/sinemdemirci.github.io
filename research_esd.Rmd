@@ -63,7 +63,7 @@ site: distill::distill_website
 
 <p>
 13. Teksoz, G. & **Demirci, S.** (2017). About the Context of Climate Change Education for Sustainability: In the Words of University Students. [Paper presentation]. 12th Biannual Conference of the European Science Research Association (ESERA), Dublin, Republic of Ireland
-<a href = "https://www.dropbox.com/s/ni7rlwfghggu4eq/ESERA-2018-Printed-Programme-14.8.17.pdf?dl=0" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+<a href = "https://www.dropbox.com/s/ni7rlwfghggu4eq/ESERA-2018-Printed-Programme-14.8.17.pdf?dl=0" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>
 <a href = "https://drive.google.com/file/d/1IO96sz0CQaWHzIY460lwP_L0qn5T5k5V/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "desktop")`</a>
 </p>
 
@@ -75,7 +75,7 @@ site: distill::distill_website
 
 <p>
 11. Cengizoglu, S. & **Demirci, S.** (2016). Türkiye’de Yaşayan Çocuklar ve Çevre-İnsan İlişkisi: Bir İçerik Analizi Çalişmasi [Human-Environment Interactions of Children in Turkey: A Content Analysis]. UFBMEK 2016 (National Science and Mathematics Education Congress of Turkey), Trabzon, Turkey
-<a href = "https://openaccess.mef.edu.tr/xmlui/bitstream/handle/20.500.11779/514/Bildiri-%C3%96zet-Kitap%C3%A7%C4%B1%C4%9F%C4%B1.pdf?sequence=3&isAllowed=y" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+<a href = "https://openaccess.mef.edu.tr/xmlui/bitstream/handle/20.500.11779/514/Bildiri-%C3%96zet-Kitap%C3%A7%C4%B1%C4%9F%C4%B1.pdf?sequence=3&isAllowed=y" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>
@@ -120,8 +120,8 @@ site: distill::distill_website
 
 <p>
 2. **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association in Environmental Education, Baltimore, Maryland, U.S.A.
-<a href = "https://drive.google.com/file/d/1JdAmBbiFuCFGvo9JMJKTIuiWE86c3r-c/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "book-bookmark")`</a>
-<a href = "https://convention2.allacademic.com/one/naaee/naaee13/" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+<a href = "https://drive.google.com/file/d/1JdAmBbiFuCFGvo9JMJKTIuiWE86c3r-c/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+<a href = "https://convention2.allacademic.com/one/naaee/naaee13/" target="_blank"> `r fontawesome::fa(name = "link")`</a>
 </p>
 
 <p>
