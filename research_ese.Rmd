@@ -18,18 +18,28 @@ site: distill::distill_website
 
 <p>
 7. **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Middle School Students’ Perceptions on the Interactions among Water Cycle, Global Warming, and Climate Change. [Paper presentation]. European Conference on Educational Research, Geneva, Switzerland 
+<a href = "https://eera-ecer.de/ecer-programmes/conference/26/contribution/50838/" target="_blank">`r fontawesome::fa(name = "link")`</a>
+<a href= "https://drive.google.com/file/d/1B6fxqdtqb9nmFwyQRCInvKh_NdnTWS99/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "chart-pie")`</a>
+  <a href="https://drive.google.com/file/d/1EbV9umjzHm93g8318c3LUbvhkfNGalBY/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
 6. **Demirci, S.** (2018). Middle School Students’ Mental Models of the Water Cycle. [Paper presentation]. ERPA International Congresses on Education, Istanbul, Turkey
+<a href = "https://www.erpacongress.com/upload/dosya/erpa-2018-e-book-of-proceedings-2018_with-isbn_15bc882e42ce0a.pdf" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+ <a href="https://drive.google.com/file/d/1HnQ_Z6KgBFMZfK-J5KF4jW5MQ_dPNAz6/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
 5. **Demirci, S.** & Sen, M. (2016). Pre-Service Science Teachers' Misconceptions About Density and Buoyancy. [Paper presentation]. The annual meeting of NARST International Conference toward Equity and Justice: Many Different Voices, Cultures, and Languages in Science Education Research for Quality Science Learning and Teaching, Baltimore, Maryland, U.S.A 
+<a href="https://narst.org/sites/default/files/2019-07/2016_Abstracts.pdf" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>
+<a href="https://drive.google.com/file/d/1eqpFAIyUVf3nw6IXehpa-4oae0BigijZ/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
 4. **Demirci, S.**, Sahin, E. & Yilmaz. A. (2015). The Effects of History of Science on Students’ Mental Models Regarding Atomic Models. [Poster presentation]. 11th biannual Conference of the European Science Research Association (ESERA), Helsinki, Finland
+<a href = "https://drive.google.com/file/d/1iE2yzRkhWDqfkFn6ISPVLRPYBsKJo-hO/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+<a href= "https://drive.google.com/file/d/1urvfk39iiJkTz_2dV2l5iFcpK5Q1-fM9/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "chart-pie")`</a>
+<a href="https://drive.google.com/file/d/1yBWkmymJQH6i6DaBRzoK2iQS02B7OO5K/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
