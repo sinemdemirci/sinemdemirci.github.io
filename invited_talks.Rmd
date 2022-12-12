@@ -7,37 +7,37 @@ site: distill::distill_website
 This section includes professional and on-campus invited talks on miscellaneous topics.
 
 <p>
-18. Demirci, S. *Middle school Students' water systems literacy: A multiple case study example.* Invited talk at the course of MSE 346 Teaching Complex Systems in Science, Middle East Technical University, Department of Mathematics and Science Education, Online, November 25, 2022
+18. Demirci, S. *Middle School Students' Water Systems Literacy: A Multiple Case Study Example*. Invited talk at the course of MSE 346 Teaching Complex Systems in Science, Middle East Technical University, Department of Mathematics and Science Education, Online, November 25, 2022
 </p>
 
 <p>
-17. Demirci, S. *How to prepare a conference paper presentation.* Invited talk at the course of MSE 599 M.s. Seminar, Middle East Technical University, Department of Mathematics and Science Education, Online, November 11, 2022
+17. Demirci, S. *How to Prepare A Conference Paper Presentation*. Invited talk at the course of MSE 599 M.s. Seminar, Middle East Technical University, Department of Mathematics and Science Education, Online, November 11, 2022
 </p>
 
 <p>
-16. Demirci, S.  *Youth responsibilities in the Climate Crisis.* Invited talk as a part of Access Project Events (Project Partners: FHI 360, US Embassy Ankara and Turkish Education Association), Online, February 1, 2022
+16. Demirci, S.  *Youth Responsibilities in the Climate Crisis*. Invited talk as a part of Access Project Events (Project Partners: FHI 360, US Embassy Ankara and Turkish Education Association), Online, February 1, 2022
 </p>
 
 <p>
-15. Demirci, S. iklim degisikliginin bilimi, sebepleri, sonuclari ve cozum onerileri *[Climate change: Science, Causes, Impacts, and Solutions.]*Invited talk as a part of TEDMEM Event at Turkish Education Association , Online, August 20, 2021
+15. Demirci, S. iklim degisikliginin bilimi, sebepleri, sonuclari ve cozum onerileri *[Climate change: Science, Causes, Impacts, and Solutions]*. Invited talk as a part of TEDMEM Event at Turkish Education Association , Online, August 20, 2021
 </p>
 
 <p>
-14. Demirci, S. *How to prepare a conference paper presentation.* Invited talk at the graduate seminar course, Middle East Technical University, Department of Mathematics and Science Education, Online, 2021
+14. Demirci, S. *How to Prepare A Conference Paper Presentation*. Invited talk at the graduate seminar course, Middle East Technical University, Department of Mathematics and Science Education, Online, 2021
 </p>
 
 <p>
-13. Demirci, S. *Climate change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 487 Environmental Science, Middle East Technical University, Department of Mathematics and Science Education, December, 2020, Ankara, Turkey
+13. Demirci, S. *Climate Change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 487 Environmental Science, Middle East Technical University, Department of Mathematics and Science Education, December, 2020, Ankara, Turkey
 </p>
 
 <p>
-12. Demirci, S. *Climate change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 487 Environmental Science, Middle East Technical University, Department of Mathematics and Science Education, Fall 2016, Ankara, Turkey
+12. Demirci, S. *Climate Change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 487 Environmental Science, Middle East Technical University, Department of Mathematics and Science Education, Fall 2016, Ankara, Turkey
 </p>
 
 <p>
-11. Demirci, S. *Climate change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 475 Climate Change Education for Sustainability, Middle East Technical University, Department of Mathematics and Science Education, Spring 2016, Ankara, Turkey
+11. Demirci, S. *Climate Change: Science, Impacts, and Solutions.* Invited talk as a member of Climate Reality Leadership Corps at the course of MSE 475 Climate Change Education for Sustainability, Middle East Technical University, Department of Mathematics and Science Education, Spring 2016, Ankara, Turkey
 </p>
 
 <p>
-1-10. Demirci, S. *Climate change: Science, Impacts, and Solutions.* A total of 10 talks were given as a member of Climate Reality Leadership Corps at the Middle East Technical University between October 2013 - June 2014, Ankara, Turkey
+1-10. Demirci, S. *Climate Change: Science, Impacts, and Solutions.* A total of 10 talks were given as a member of Climate Reality Leadership Corps at the Middle East Technical University between October 2013 - June 2014, Ankara, Turkey
 </p>
