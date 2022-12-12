@@ -7,7 +7,11 @@ site: distill::distill_website
 This section includes professional and on-campus invited talks on miscellaneous topics.
 
 <p>
-17. Demirci, S. *How to prepare a conference paper presentation.* Invited talk at the course of MSE 599 M.s. Seminar, Middle East Technical University, Department of Mathematics and Science Education, Online, November 2022
+18. Demirci, S. *Middle School Students' Water Systems Literacy: A Multiple Case Study Example.* Invited talk at the course of MSE 346 Teaching Complex Systems in Science, Middle East Technical University, Department of Mathematics and Science Education, Online, November 25, 2022
+</p>
+
+<p>
+17. Demirci, S. *How to prepare a conference paper presentation.* Invited talk at the course of MSE 599 M.s. Seminar, Middle East Technical University, Department of Mathematics and Science Education, Online, November 11, 2022
 </p>
 
 <p>
