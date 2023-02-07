@@ -4,6 +4,8 @@ description: null
 site: distill::distill_website
 ---
 
+In this term, I am one of the tutors of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT004 - Introduction to Computational Statistics at the Department of Statistical Science </b></a> at <b>University College London</b>.
+
 As a teaching/research assistant for 8 academic years, I delivered mostly the tutorials and computer practical sessions of undergraduate and graduate <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> statistics courses </b></a> in the <b> Department of Mathematics and Science Education </b> at Middle East Technical University <b>(METU)</b>, Ankara, Turkey. I have been also a TA for <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> graduate research & undergraduate practice teaching  courses </b> </a>.
 
 # Courses Assisted
