@@ -4,11 +4,23 @@ description: null
 site: distill::distill_website
 ---
 
-In this term, I am one of the tutors of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT004 - Introduction to Computational Statistics at the Department of Statistical Science </b></a> at <b>University College London</b>.
+## University College London
+
+As a Visiting Researcher/Lecturer, I am one of the demonstrators of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT0004 </b></a> at the Department of Statistical Science  at UCL in this term.
+
+| **Course Code**   | **Course Name**                                       | **Term**
+| :-------          | :-----------------------                              | :-----------
+| STAT0004       | Introduction to Practical Statistics                                | Term 2 (Winter)
+
+### Tasks
+Some of work I have done in this module as following:
+
+  * Facilitating computer practical sessions
+  * Providing feedback for group homework
+
+## Middle East Technical University
 
 As a teaching/research assistant for 8 academic years, I delivered mostly the tutorials and computer practical sessions of undergraduate and graduate <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> statistics courses </b></a> in the <b> Department of Mathematics and Science Education </b> at Middle East Technical University <b>(METU)</b>, Ankara, Turkey. I have been also a TA for <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> graduate research & undergraduate practice teaching  courses </b> </a>.
-
-# Courses Assisted
 
 | **Course Code**   | **Course Name**                                       | **Number of Semesters**
 | :-------          | :-----------------------                              | :-----------
@@ -20,7 +32,7 @@ As a teaching/research assistant for 8 academic years, I delivered mostly the tu
 | MSE 409 & 410     | Practice Teaching, I & II                             | 6 Semesters (2016 – 2020)
 
 
-# Tasks
+### Tasks
 Some of work I have done as a TA for these courses as following:
 
   * Delivering tutorials and computer practical sessions
