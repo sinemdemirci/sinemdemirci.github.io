@@ -38,14 +38,15 @@ navbar:
           href: projects_esd.html
         - text: "---"
         - text: "Science Education"
-          href: projects_ese.html 
+          href: projects_ese.html
+  
+    - text: "Workshops & Talks"
+      href: invited_talks.html
+          
     - text: "About"
       menu:
         - text: "Awards & Scholarships"
           href: awards_scholarships.html
-        - text: "---"
-        - text: "Invited Talks"
-          href: invited_talks.html
         - text: "---"
         - text: "Journal/Conference Proposal Reviewing"
           href: refereeing.html
