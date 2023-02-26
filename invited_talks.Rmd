@@ -1,10 +1,18 @@
 ---
-title: "Invited Talks"
+title: "Workshops and Invited Talks"
 description: null
 site: distill::distill_website
 ---
 
-This section includes professional and on-campus invited talks on miscellaneous topics.
+This section includes professional and on-campus workshops and invited talks on miscellaneous topics.
+
+## Workshops
+
+<p>
+1. Dogucu, M. & **Demirci, S.** *Disseminating Collaborative and Reproducible Research.* Workshop given at the Department of Statistical Science, University College London. London, UK, Feb 2023. <a href = "https://disseminate-collaborate-reproduce.github.io/schedule/" target="_blank"> `r fontawesome::fa(name = "github")` </a>
+</p>
+
+## Invited Talks
 
 <p>
 18. Demirci, S. *Middle School Students' Water Systems Literacy: A Multiple Case Study Example*. Invited talk at the course of MSE 346 Teaching Complex Systems in Science, Middle East Technical University, Department of Mathematics and Science Education, Online, November 25, 2022
