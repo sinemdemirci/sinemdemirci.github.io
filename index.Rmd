@@ -43,5 +43,5 @@ site: distill::distill_website
 | Ph.D.             | Elementary Education                                | Jan 2021
 | M.Sc.             | Statistics                                          | Oct 2018
 | M.Sc.             | Elementary Science and Mathematics Education        | Jan 2014
-| B.Sc.             | Elementary Science Education                        | Jun 2011
+| B.S.             | Elementary Science Education                        | Jun 2011
 ---
