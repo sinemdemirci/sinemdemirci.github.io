@@ -8,7 +8,7 @@ site: distill::distill_website
 # Peer Reviewed Articles under Preparation
 
 <p>
-Demirci, S. & İlk-Dag, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data. Prepared to be submitted
+Demirci, S. & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data.
 </p>
 
 # Theses
