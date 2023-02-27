@@ -1,10 +1,18 @@
 ---
-title: "Awards and Scholarships"
+title: "Grants, Awards and Scholarships"
 description: |
 site: distill::distill_website
 ---
 
-| **Year**    |**Institution**                                                    |**Award/Scholarship**
+## Grants and Sponsorships
+
+|             |                                                                   |                                                                         |           |
+| :--------   | :----------------------                                           | :------------------                                                     |:--        |:--
+| Winter 2023 | UCL, Mathematical and Physical Sciences     | PCK of Introductory Data Science Instructors                                                  |£750       |PI
+
+## Awards and Scholarships
+
+|    |                                                 |
 | :----       | :-------------------                                              | :--------------
 | 2021        | Scientific and Technological Research Council of Turkey (TUBITAK) | 2219 - Postdoctoral Research Scholarship
 | 2020        | European Educational Research Association (ECER)                  | Bursary Winner for ECER 2020 

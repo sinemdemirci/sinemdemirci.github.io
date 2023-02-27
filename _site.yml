@@ -45,7 +45,7 @@ navbar:
           
     - text: "About"
       menu:
-        - text: "Awards & Scholarships"
+        - text: "Grants, Awards & Scholarships"
           href: awards_scholarships.html
         - text: "---"
         - text: "Journal/Conference Proposal Reviewing"
