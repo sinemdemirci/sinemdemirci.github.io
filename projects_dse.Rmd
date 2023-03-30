@@ -21,3 +21,9 @@ Teaching Assoc. Prof. Dr Andrew Zieffler – University of Minnesota
 **Sponsored by:** University College London
 
 **Role & time spent:** Principal Investigator, 01.08.2022 - 31.07.2023 
+
+---
+
+## Service to the Field
+
+Judge at Undergraduate Statistics Project Competition and Electronic Undergraduate Statistics, Research Conference, Fall 2022 <a href = "https://www.causeweb.org/usproc/" target="_blank">`r fontawesome::fa(name = "link")`</a>

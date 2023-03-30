@@ -29,6 +29,11 @@ site: distill::distill_website
 # Conference Papers/Presentations
 
 <p>
+19. **Demirci, S.**, Reid. A, Teksoz, G. & Sahin E. (2023). Systems Literacy as a Key Concept for Quality Education and Agenda 2030.[Roundtable Discussion]. AERA 2023 Annual Meeting, Chicago, Illinois, U.S.A.
+  <a href = "https://www.aera.net/Events-Meetings/2023-Annual-Meeting/2023-Annual-Meeting-Program-Information" target="_blank">`r fontawesome::fa(name = "link")`</a>
+</p>
+
+<p>
 18. **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Eight-Graders’ Understanding of Hidden Use of Water and Their Action Strategies for Sustainable Use of Water.[Paper presentation]. European Conference on Educational Research, Geneva, Switzerland 
   <a href = "https://eera-ecer.de/ecer-programmes/conference/26/contribution/50836/" target="_blank">`r fontawesome::fa(name = "link")`</a>
   <a href= "https://drive.google.com/file/d/1BxbggF9j91Ewos7qCIAIm1BsYV86anBr/view?usp=share_link" target="_blank">`r fontawesome::fa(name = "chart-pie")`</a>
