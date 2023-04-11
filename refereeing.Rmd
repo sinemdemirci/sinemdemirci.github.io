@@ -9,6 +9,5 @@ site: distill::distill_website
 | Environmental Education Research                  | 2022 & 2023 (x3)
 | Van Yuzuncu Yil University Journal of Education   | 2022 & 2023                  
 | E-International Journal of Educational Research   | 2020                           
-| NAAEE Proposal Review Team                        | 2014 & 2015
 
 

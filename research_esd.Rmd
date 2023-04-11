@@ -31,6 +31,7 @@ site: distill::distill_website
 <p>
 19. **Demirci, S.**, Reid. A, Teksoz, G. & Sahin E. (2023). Systems Literacy as a Key Concept for Quality Education and Agenda 2030.[Roundtable Discussion]. AERA 2023 Annual Meeting, Chicago, Illinois, U.S.A.
   <a href = "https://www.aera.net/Events-Meetings/2023-Annual-Meeting/2023-Annual-Meeting-Program-Information" target="_blank">`r fontawesome::fa(name = "link")`</a>
+  <a href= "https://aera23-aera.ipostersessions.com/Default.aspx?s=68-D3-C1-36-1C-76-7C-A5-58-2D-5F-32-C9-A8-2B-FB" target="_blank">`r fontawesome::fa(name = "chart-pie")`</a>
 </p>
 
 <p>

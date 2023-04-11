@@ -1,5 +1,5 @@
 ---
-title: "Projects and Services for Elementary Science Education"
+title: "Projects Experiences in Elementary Science Education"
 description: |
     The list of projects and services that I involved in
 site: distill::distill_website
@@ -23,25 +23,3 @@ Res. Assist. Sinem Demirci - Middle East Technical University
 **Project No:** BAP-05-06-2015-001
 
 ---
-
-## Service to the Field
-
-<p>
-8. Volunteer at <a href = "http://obe.metu.edu.tr/en/science-through-art-2019" target="_blank"> Science through ART </a>, The European Researchers' Night event funded under the European Union's Horizon 2020 program, organized by the METU Society and Science Application and Research Center, METU Campus in September 2019
-</p>
-
-<p>
-7. Volunteer at <a href = "http://obe.metu.edu.tr/en/scienceathome-2017" target="_blank"> Science@Home </a>, The European Researchers' Night event funded under the European Union's Horizon 2020 program, organized by the METU Society and Science Application and Research Center, METU Campus in September 2017
-</p>
-
-<p>
-6. Volunteer at <a href = "http://obe.metu.edu.tr/en/scienceisfun-2012" target="_blank"> Science is Fun! @METU event </a>, organized by the METU Society and Science Application and Research Center, METU Campus, November 4, 2012
-</p>
-
-<p>
-5. Jury Member at Science Fair, ODTÜ Geliştirme Vakfı Okulları, Ankara, Turkey, 2020
-</p>
-
-<p>
-1 - 4. Jury Member at Science Fair, ODTÜ Geliştirme Vakfı Okulları, Ankara, Turkey, 2013 - 2016 
-</p>

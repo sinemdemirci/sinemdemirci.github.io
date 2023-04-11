@@ -51,6 +51,9 @@ navbar:
         - text: "Journal/Conference Proposal Reviewing"
           href: refereeing.html
         - text: "---"
+        - text: "Service to the Fields"
+          href: services.html
+        - text: "---"
         - text: "Community Service"
           href: community_service.html 
         - text: "---"  
