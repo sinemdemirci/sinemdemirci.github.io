@@ -5,10 +5,13 @@ description: |
 site: distill::distill_website
 ---
 
-# Peer Reviewed Articles under Preparation
+# Peer Reviewed Articles under Preparation/Review
 
 <p>
-Demirci, S. & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data.
+2. Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. Learning Difficulties of Introductory Data Science Students. 13th IASE Satellite Conference, Toronto, Canada (*under review*)
+
+<p>
+1. Demirci, S. & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data.
 </p>
 
 # Theses

@@ -15,6 +15,11 @@ This section includes professional and on-campus workshops and invited talks on 
 ## Invited Talks
 
 <p>
+19. Demirci S. *Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education*. Invited talks at Teaching in Mathematical and Statistical Sciences (TMSS) Seminars, University College London, Department of Statistical Science, Online, May 10, 2023.<a href = "https://www.ucl.ac.uk/statistics/departmental-seminars/teaching-mathematical-and-statistical-sciences-tmss-seminars" target="_blank"> `r fontawesome::fa(name = "link")`</a>
+<a href = "https://sinemdemirci.github.io/pck-ucl-2023/" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
+</p>
+
+<p>
 18. Demirci, S. *Middle School Students' Water Systems Literacy: A Multiple Case Study Example*. Invited talk at the course of MSE 346 Teaching Complex Systems in Science, Middle East Technical University, Department of Mathematics and Science Education, Online, November 25, 2022
 </p>
 
