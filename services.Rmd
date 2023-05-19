@@ -8,6 +8,7 @@ site: distill::distill_website
 
 |                                                                   | 
 | :-------------                                                    | :---------  
+| Associate Fellow, Higher Education Academy                        | 2023 - Present
 | American Statistical Association (ASA)                            | 2023 - Present
 | American Educational Research Association (AERA)                  | 2023 - Present
 
