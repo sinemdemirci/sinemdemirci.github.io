@@ -6,7 +6,7 @@ site: distill::distill_website
 
 ## University College London
 
-As a Visiting Researcher/Lecturer, I am one of the demonstrators of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT0004 </b></a> at the Department of Statistical Science  at UCL in this term.
+As a (Postdoctoral) Visiting Researcher/Lecturer, I was one of the demonstrators of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT0004 </b></a> at the Department of Statistical Science  at UCL.
 
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-----------------------                              | :-----------

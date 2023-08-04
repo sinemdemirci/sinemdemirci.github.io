@@ -1,7 +1,7 @@
 ---
 title: "Publications in Environmental and Sustainability Education"
 description: |
-  This section includes peer reviewed articles and paper presented in conferences.
+  This section includes peer reviewed articles and papers presented in conferences.
 site: distill::distill_website
 ---
 
@@ -25,6 +25,7 @@ site: distill::distill_website
 1. **Demirci, S.** & Teksöz, G. (2017). Self-Efficacy beliefs on integrating sustainability into profession and daily life: in the words of university students. *International Electronic Journal of Environmental Education, 7*(2), 116-133. 
 <a href = "https://files.eric.ed.gov/fulltext/EJ1180990.pdf" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
+
 
 # Conference Papers/Presentations
 

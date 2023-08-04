@@ -14,23 +14,26 @@ This section includes professional and on-campus workshops and invited talks on 
 
 ## Invited Talks
 
+<p>
+22. Demirci S. *Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education*. Invited talk at MAPS Education Forum: Education Research and Dissemination, University College London, July 11, 2023 <a href = "https://sinemdemirci.github.io/maps-ucl-2023/ " target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
+</p>
 
 <p>
-21. Demirci S. *Pre-service Teachers’ Understanding of Sustainability: Evidence from Türkiye*. Invited talks at UCL ZJU Project Symposium: Promoting education about and for sustainable development, University College London, Institute of Education, Online, June 14, 2023
+21. Demirci S. *Pre-service Teachers’ Understanding of Sustainability: Evidence from Türkiye*. Invited talk at UCL ZJU Project Symposium: Promoting education about and for sustainable development, University College London, Institute of Education, Online, June 14, 2023
 <a href = "https://sinemdemirci.github.io/ucl-ioe-2023/" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
 </p>
 
 <p>
-20. Demirci S. *An Introduction to Systems Thinking and Systems Literacy*.at the course of PRED 480 Environmental Education, TED University, Department of Elementary Education, Online, May 23, 2023 <a href = "https://sinemdemirci.github.io/sts-tedu/" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
+20. Demirci S. *An Introduction to Systems Thinking and Systems Literacy*. Invited lecture given at the course of PRED 480 Environmental Education, TED University, Department of Elementary Education, Online, May 23, 2023 <a href = "https://sinemdemirci.github.io/sts-tedu/" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
 </p>
 
 <p>
-19. Demirci S. *Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education*. Invited talks at Teaching in Mathematical and Statistical Sciences (TMSS) Seminars, University College London, Department of Statistical Science, Online, May 10, 2023<a href = "https://www.ucl.ac.uk/statistics/departmental-seminars/teaching-mathematical-and-statistical-sciences-tmss-seminars" target="_blank"> `r fontawesome::fa(name = "link")`</a>
+19. Demirci S. *Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education*. Invited talk at Teaching in Mathematical and Statistical Sciences (TMSS) Seminars, University College London, Department of Statistical Science, Online, May 10, 2023<a href = "https://www.ucl.ac.uk/statistics/departmental-seminars/teaching-mathematical-and-statistical-sciences-tmss-seminars" target="_blank"> `r fontawesome::fa(name = "link")`</a>
 <a href = "https://sinemdemirci.github.io/pck-ucl-2023/" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
 </p>
 
 <p>
-18. Demirci, S. *Middle School Students' Water Systems Literacy: A Multiple Case Study Example*. Invited talk at the course of MSE 346 Teaching Complex Systems in Science, Middle East Technical University, Department of Mathematics and Science Education, Online, November 25, 2022
+18. Demirci, S. *Middle School Students' Water Systems Literacy: A Multiple Case Study Example*. Invited lecture given at the course of MSE 346 Teaching Complex Systems in Science, Middle East Technical University, Department of Mathematics and Science Education, Online, November 25, 2022
 </p>
 
 <p>

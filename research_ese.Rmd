@@ -1,7 +1,7 @@
 ---
-title: "Publications in Elementary Science Education"
+title: "Publications/Conference Presentations in Elementary Science Education"
 description: |
-  This section includes peer reviewed articles and paper presented in conferences.
+  This section includes peer reviewed articles and papers presented in conferences.
 site: distill::distill_website
 ---
 

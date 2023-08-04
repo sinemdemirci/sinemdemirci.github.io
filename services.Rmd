@@ -17,6 +17,10 @@ site: distill::distill_website
 ### Statistics and Data Science Education
 
 <p>
+3. Judge at Undergraduate Statistics Project Competition and Electronic Undergraduate Statistics, Research Conference, Spring 2023 <a href = "https://www.causeweb.org/usproc/" target="_blank">`r fontawesome::fa(name = "link")`</a>
+</p>
+
+<p>
 2. Reviewer at IASE Satellite Conference 2023 Proceedings <a href = "https://iase2023satellite.github.io/" target="_blank">`r fontawesome::fa(name = "link")`</a>
 </p>
 
@@ -26,6 +30,7 @@ site: distill::distill_website
 </p>
 
 ### Environmental and Sustainability Education
+
 
 <p>
 3. Reviewer at NAAEE’s 2023 conference
@@ -40,6 +45,10 @@ site: distill::distill_website
 </p>
 
 ### Science Education
+
+<p>
+9. Reviewer at 2024 AERA Annual Meeting
+</p>
 
 <p>
 8. Volunteer at <a href = "http://obe.metu.edu.tr/en/science-through-art-2019" target="_blank"> Science through ART </a>, The European Researchers' Night event funded under the European Union's Horizon 2020 program, organized by the METU Society and Science Application and Research Center, METU Campus in September 2019

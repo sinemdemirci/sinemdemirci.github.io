@@ -1,18 +1,28 @@
 ---
-title: "Research in Statistics and Data Science Education"
+title: "Publications/Conference Presentations in Statistics and Data Science Education"
 description: |
-    This section includes peer reviewed articles, thesis and paper presented in conferences.
+    This section includes peer reviewed articles, thesis and papers presented in conferences.
 site: distill::distill_website
 ---
 
-# Peer Reviewed Articles under Preparation/Review
+# Peer Reviewed Publications under Preparation/Review
 
 <p>
-2. Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. Learning Difficulties of Introductory Data Science Students. 13th IASE Satellite Conference, Toronto, Canada (*under review*)
-
-<p>
-1. Demirci, S. & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data.
+2. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M. Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. (*in press*)
 </p>
+
+<p>
+1. **Demirci, S.** & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data.(*under review*)
+</p>
+
+# Conference Presentations 
+
+<p>
+1. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M.(2023). Learning Difficulties of Introductory Data Science Students. [Paper presentation]. 13th IASE Satellite Conference, Toronto, Canada.
+<a href = "https://iase2023satellite.github.io/speakers.html" target="_blank">`r fontawesome::fa(name = "link")`</a>
+  <a href="https://sinemdemirci.github.io/iase-2023/" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
+</p>
+
 
 # Theses
 
