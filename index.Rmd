@@ -8,7 +8,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=r_R0R6wAAAAJ&hl=tr"
   - label: Email
-    url: "mailto:s.demirci@ucl.ac.uk"
+    url: "mailto:cosinemdemirci@gmail.com"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/drsinemdemirci/"
 output:
