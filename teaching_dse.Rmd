@@ -4,13 +4,24 @@ description: null
 site: distill::distill_website
 ---
 
+
+
+## California Polytechnic State University
+
+As a Full-Time Lecturer, I am teaching STAT 218 at the Statistics Department this quarter.
+
+| **Course Code**   | **Course Name**                                       | **Term**
+| :-------          | :-----------------------                              | :-----------
+| STAT 218          | Applied Statistics for the Life Sciences              | Fall 2023
+
+
 ## University College London
 
 As a (Postdoctoral) Visiting Researcher/Lecturer, I was one of the demonstrators of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT0004 </b></a> at the Department of Statistical Science  at UCL.
 
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-----------------------                              | :-----------
-| STAT0004       | Introduction to Practical Statistics                                | Term 2 (Winter)
+| STAT0004       | Introduction to Practical Statistics                     | Term 2 (Winter)
 
 ### Tasks
 Some of work I have done in this module as following:
