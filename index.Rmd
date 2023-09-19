@@ -44,7 +44,7 @@ site: distill::distill_website
 | :--------         | :--------------------                              | :----------------:
 | **Degree**        | **Department**                                      | **Date of Graduation**
 | Ph.D.             | Elementary (Science) Education                                | Jan 2021
-| M.Sc.             | Statistics                                          | Oct 2018
-| M.Sc.             | Elementary Science and Mathematics Education        | Jan 2014
+| M.S.             | Statistics                                          | Oct 2018
+| M.S.             | Elementary Science and Mathematics Education        | Jan 2014
 | B.S.             | Elementary Science Education                        | Jun 2011
 ---
