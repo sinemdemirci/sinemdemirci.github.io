@@ -12,7 +12,7 @@ As a Full-Time Lecturer, I am teaching STAT 218 at the Statistics Department thi
 
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-----------------------                              | :-----------
-| STAT 218          | Applied Statistics for the Life Sciences              | Fall 2023
+| STAT 218          | Applied Statistics for the Life Sciences              | Fall 2023 <a href = "https://sinemdemirci.github.io/stat-218-fa23/" target="_blank">`r fontawesome::fa(name = "link")`</a>
 
 
 ## University College London
