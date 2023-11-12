@@ -6,7 +6,7 @@ site: distill::distill_website
 
 | **Journal**                                       |**Year**   
 | :-------------                                    | :----                           
-| Environmental Education Research                  | 2022 & 2023 (x4)
+| Environmental Education Research                  | 2022 - Present
 | Van Yuzuncu Yil University Journal of Education   | 2022 & 2023
 | e-Kafkas Journal of Educational Research          | 2023
 | E-International Journal of Educational Research   | 2020    
