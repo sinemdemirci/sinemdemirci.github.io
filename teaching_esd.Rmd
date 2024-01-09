@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experiences in Environmental and Sustainability Education"
+title: "Teaching Experience"
 description: |
 site: distill::distill_website
 ---

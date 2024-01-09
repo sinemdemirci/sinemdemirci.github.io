@@ -1,7 +1,6 @@
 ---
-title: "Publications in Environmental and Sustainability Education"
-description: |
-  This section includes peer reviewed articles and papers presented in conferences.
+title: "Research Experience"
+description: null
 site: distill::distill_website
 ---
 
@@ -133,4 +132,17 @@ site: distill::distill_website
 
 <p>
 1. **Cokoglu, S.** & Sahin, E. (2012). Beliefs toward Population Growth in Turkey. [Paper presentation]. 1. Ulusal Disiplinlerarası Cevre Kongresi, Sakarya, Turkey
+</p>
+
+# Theses
+
+<p>
+2. Demirci S. (2021). Exploring middle school students’ systems literacy within the context of water system
+. [Ph.D. thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/89645" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>   
+__Advisors:__ <a href = "https://avesis.metu.edu.tr/selvan" target="_blank"> Prof. Dr. Elvan Sahin </a> & <a href = "https://avesis.metu.edu.tr/gtuncer" target="_blank"> Prof. Dr. Gaye Teksoz </a>
+</p>
+
+<p>
+1. Demirci S. (2014). Development and validation of human population growth scale in the context of sustainability. [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/23331" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>   
+__Advisors:__ <a href = "https://avesis.metu.edu.tr/selvan" target="_blank"> Prof. Dr. Elvan Sahin </a> & <a href = "https://avesis.metu.edu.tr/gtuncer" target="_blank"> Prof. Dr. Gaye Teksoz </a>
 </p>

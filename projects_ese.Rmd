@@ -1,11 +1,9 @@
 ---
-title: "Projects Experiences in Elementary Science Education"
-description: |
-    The list of projects and services that I involved in
+title: "Project Experiences"
+description: null
 site: distill::distill_website
 ---
 
-## Projects
 
 **Project title:** In-service Science Teachers’ Teaching Experiences on Atomic Models within the context of History of Science
 

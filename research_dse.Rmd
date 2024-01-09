@@ -1,11 +1,12 @@
 ---
-title: "Publications/Conference Presentations in Statistics and Data Science Education"
-description: |
-    This section includes peer reviewed articles, thesis and papers presented in conferences.
+title: "Research Experience"
+description: null
 site: distill::distill_website
 ---
 
-# Peer Reviewed Publications under Preparation/Review
+# Publications (Peer-Reviewed)
+
+### Under Preparation/Review
 
 <p>
 2. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M. Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. (*in press*)
@@ -24,12 +25,20 @@ site: distill::distill_website
 </p>
 
 
+# Postdoctoral Research Experience
+
+Postdoctoral Visiting Researcher / Lecturer, 2022 - 2023     
+Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> University College London </b></a>  
+__Postdoc Mentor:__ <a href = 'https:minedogucu.com' target="_blank"> Dr. Mine Dogucu </a>  
+
 # Theses
 
 <p>
-Demirci S. (2018). A Closer look to Turkish students' scientific literacy: What do PISA 2015 results tell us? [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/27834" target="_blank"> `r fontawesome::fa(name = "book-bookmark")` </a>
+2. Demirci S. (2018). A Closer look to Turkish students' scientific literacy: What do PISA 2015 results tell us? [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/27834" target="_blank"> `r fontawesome::fa(name = "book-bookmark")` </a>   
+__Advisor:__ <a href = "https://stat.metu.edu.tr/en/ozlem-ilk-dag" target="_blank"> Prof. Dr. Ozlem Ilk Dag </a>
 </p>
 
 <p>
-Demirci S. (2014). Development and validation of human population growth scale in the context of sustainability. [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/23331" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>
+1. Demirci S. (2014). Development and validation of human population growth scale in the context of sustainability. [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/23331" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>   
+__Advisors:__ <a href = "https://avesis.metu.edu.tr/selvan" target="_blank"> Prof. Dr. Elvan Sahin </a> & <a href = "https://avesis.metu.edu.tr/gtuncer" target="_blank"> Prof. Dr. Gaye Teksoz </a>
 </p>

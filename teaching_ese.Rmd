@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experiences in Elementary Science Education"
+title: "Teaching Experience"
 description: |
 site: distill::distill_website
 ---

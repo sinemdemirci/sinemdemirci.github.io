@@ -1,11 +1,11 @@
 ---
-title: "Publications/Conference Presentations in Elementary Science Education"
+title: "Publications & Conference Presentations"
 description: |
-  This section includes peer reviewed articles and papers presented in conferences.
+    This section includes peer reviewed articles, thesis and papers presented in conferences related to elementary science education.
 site: distill::distill_website
 ---
 
-# Peer Reviewed Articles
+# Publications (Peer-Reviewed)
 
 <p>
 1. **Demirci, S.**, Yilmaz, A., & Sahin, E. (2016). Lise ve üniversite öğrencilerinin atomun yapısı ile ilgili zihinsel modellerine genel bir bakış. [An Overview of High School and University Students' Mental Models of the Structure of the Atom]. *Turkiye Kimya Dernegi Dergisi, Kisim C: Kimya Egitimi, 1*(1), 87-106. <a href = "https://dergipark.org.tr/en/pub/jotcsc/issue/30533/330312" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>

@@ -1,21 +1,20 @@
 ---
-title: "Teaching Experiences in Statistics and Data Science Education"
+title: "Teaching Experience"
 description: null
 site: distill::distill_website
 ---
 
-
-
-## California Polytechnic State University
+# California Polytechnic State University
 
 As a Full-Time Lecturer, I am teaching STAT 218 at the Statistics Department this quarter.
 
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-----------------------                              | :-----------
+| STAT 218          | Applied Statistics for the Life Sciences              | Winter 2024 <a href = "https://stat218-wi24.github.io/website/" target="_blank">`r fontawesome::fa(name = "link")`</a>
 | STAT 218          | Applied Statistics for the Life Sciences              | Fall 2023 <a href = "https://sinemdemirci.github.io/stat-218-fa23/" target="_blank">`r fontawesome::fa(name = "link")`</a>
 
 
-## University College London
+# University College London
 
 As a (Postdoctoral) Visiting Researcher/Lecturer, I was one of the demonstrators of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT0004 </b></a> at the Department of Statistical Science  at UCL.
 
@@ -29,7 +28,7 @@ Some of work I have done in this module as following:
   * Facilitating computer practical sessions
   * Providing feedback for group homework
 
-## Middle East Technical University
+# Middle East Technical University
 
 As a teaching/research assistant for 8 academic years, I delivered mostly the tutorials and computer practical sessions of undergraduate and graduate <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> statistics courses </b></a> in the <b> Department of Mathematics and Science Education </b> at Middle East Technical University <b>(METU)</b>, Ankara, Turkey. I have been also a TA for <b><a href = 'https://catalog.metu.edu.tr/prog_courses.php?prog=460' target="_blank"> graduate research & undergraduate practice teaching  courses </b> </a>.
 

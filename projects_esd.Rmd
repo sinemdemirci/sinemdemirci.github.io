@@ -1,7 +1,6 @@
 ---
-title: "Project Experiences in Environmental and Sustainability Education"
-description: |
-    The list of projects that I involved in
+title: "Project Experiences"
+description: null
 site: distill::distill_website
 ---
 

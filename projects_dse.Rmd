@@ -1,7 +1,6 @@
 ---
-title: "Project Experience in Statistics and Data Science Education"
-description: |
-    The list of projects that I involved in
+title: "Project Experience"
+description: null
 site: distill::distill_website
 ---
 
