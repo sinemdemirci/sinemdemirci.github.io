@@ -15,6 +15,11 @@ This section includes professional and on-campus workshops and invited talks on 
 ## Invited Talks
 
 <p>
+23. Demirci S. *Evolving Landscape of Data Science Education: From Instructor Pedagogy to Policy Perspectives*. Invited talk at California State University, Fullerton, Department of Mathematics, February 2, 2024 <a href = "https://sinemdemirci.github.io/CSUF-research-talk/research-talk.html
+" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
+</p>
+
+<p>
 22. Demirci S. *Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education*. Invited talk at MAPS Education Forum: Education Research and Dissemination, University College London, July 11, 2023 <a href = "https://sinemdemirci.github.io/maps-ucl-2023/ " target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
 </p>
 

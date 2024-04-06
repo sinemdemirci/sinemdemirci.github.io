@@ -48,9 +48,6 @@ navbar:
         - text: "Grants, Awards & Scholarships"
           href: awards_scholarships.html
         - text: "---"
-        - text: "Journal Peer Reviewing"
-          href: refereeing.html
-        - text: "---"
         - text: "Memberships & Service to the Fields"
           href: services.html
         - text: "---"
@@ -58,7 +55,7 @@ navbar:
           href: community_service.html 
         - text: "---"  
         - text: "CV"   
-          href: CV_Sinem_Demirci_2023.pdf
+          href: CV_Sinem_Demirci_2024.pdf
     - icon: fa fa-github
       href: https://github.com/sinemdemirci
 output: 

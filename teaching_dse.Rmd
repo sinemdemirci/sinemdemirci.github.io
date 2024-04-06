@@ -6,24 +6,24 @@ site: distill::distill_website
 
 # California Polytechnic State University
 
-As a Full-Time Lecturer, I am teaching STAT 218 at the Statistics Department this quarter.
-
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-----------------------                              | :-----------
-| STAT 218          | Applied Statistics for the Life Sciences              | Winter 2024 <a href = "https://stat218-wi24.github.io/website/" target="_blank">`r fontawesome::fa(name = "link")`</a>
-| STAT 218          | Applied Statistics for the Life Sciences              | Fall 2023 <a href = "https://sinemdemirci.github.io/stat-218-fa23/" target="_blank">`r fontawesome::fa(name = "link")`</a>
+| STAT 217          | Introduction to Statistical Concepts and Methods      | Spring 2024 <a href = "https://drive.google.com/file/d/1jsvYDAsTg0Qa1xLSUZcetLK-gxszyaAO/view?usp=sharing" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>
+| STAT 218          | Applied Statistics for the Life Sciences              | Winter 2024 <a href = "https://stat218-wi24.github.io/website/" target="_blank">`r fontawesome::fa(name = "desktop")`</a>
+| STAT 218          | Applied Statistics for the Life Sciences              | Fall 2023 <a href = "https://sinemdemirci.github.io/stat-218-fa23/" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>
 
 
 # University College London
 
-As a (Postdoctoral) Visiting Researcher/Lecturer, I was one of the demonstrators of <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT0004 </b></a> at the Department of Statistical Science  at UCL.
 
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-----------------------                              | :-----------
 | STAT0004       | Introduction to Practical Statistics                     | Term 2 (Winter)
 
+
 ### Tasks
-Some of work I have done in this module as following:
+
+Here are some of the tasks I have undertaken as a demonstrator for <b><a href = 'https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004' target ="_blank"> STAT0004 </b></a> at the Department of  Statistical Science at UCL, in my role as a (Postdoctoral) Visiting Researcher/Lecturer:
 
   * Facilitating computer practical sessions
   * Providing feedback for group homework

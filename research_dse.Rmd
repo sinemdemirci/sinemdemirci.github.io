@@ -4,16 +4,21 @@ description: null
 site: distill::distill_website
 ---
 
-# Publications (Peer-Reviewed)
 
-### Under Preparation/Review
+# Under Preparation/Review/Pre-Prints
 
 <p>
-2. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M. Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. (*in press*)
+2. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M. Undergraduate data science education: Who has the microphone and what are they saying? <a href = "https://arxiv.org/abs/2403.03387" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>
 1. **Demirci, S.** & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data.(*under review*)
+</p>
+
+# Peer Reviewed Publications
+
+<p>
+1. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M. Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. <a href = "https://escholarship.org/uc/item/01p3k7f3" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 # Conference Presentations 
