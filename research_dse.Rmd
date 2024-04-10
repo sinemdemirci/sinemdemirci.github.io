@@ -18,7 +18,7 @@ site: distill::distill_website
 # Peer Reviewed Publications
 
 <p>
-1. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M. Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. <a href = "https://escholarship.org/uc/item/01p3k7f3" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+1. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M. (2023). Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. <a href = "https://escholarship.org/uc/item/01p3k7f3" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 # Conference Presentations 
