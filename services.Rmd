@@ -22,9 +22,9 @@ site: distill::distill_website
 | :-------------                                            | :----                           
 | Journal of Statistics and Data Science Education          | 2024
 | Journal of Turkish Science Education                      | 2024
-| Environmental Education Research                          | 2022 - ...
+| Environmental Education Research                          | 2022 - Present
 | Van Yuzuncu Yil University Journal of Education           | 2022 & 2023
-| e-Kafkas Journal of Educational Research                  | 2023
+| e-Kafkas Journal of Educational Research                  | 2023 - Present
 | E-International Journal of Educational Research           | 2020    
 
 
@@ -35,11 +35,11 @@ site: distill::distill_website
 ### Statistics and Data Science Education
 
 <p>
-4. Judge at Undergraduate Statistics Project Competition and Electronic Undergraduate Statistics, Research Conference, Fall 2023 <a href = "https://www.causeweb.org/usproc/" target="_blank">`r fontawesome::fa(name = "link")`</a>
+4. Judge at Undergraduate Statistics Project Competition and Electronic Undergraduate Statistics, Research Conference, Spring 2023 <a href = "https://www.causeweb.org/usproc/" target="_blank">`r fontawesome::fa(name = "link")`</a>
 </p>
 
 <p>
-3. Judge at Undergraduate Statistics Project Competition and Electronic Undergraduate Statistics, Research Conference, Spring 2023 <a href = "https://www.causeweb.org/usproc/" target="_blank">`r fontawesome::fa(name = "link")`</a>
+3. Judge at Undergraduate Statistics Project Competition and Electronic Undergraduate Statistics, Research Conference, Fall 2023 <a href = "https://www.causeweb.org/usproc/" target="_blank">`r fontawesome::fa(name = "link")`</a>
 </p>
 
 <p>

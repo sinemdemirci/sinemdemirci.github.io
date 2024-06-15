@@ -20,7 +20,7 @@ site: distill::distill_website
 
 <p>I am working as a Full-Time Lecturer in the Statistics Department at Cal Poly.</p>
 
-<p>I am a teacher educator whose interdisciplinary research interests include <b> Statistics & Data Science Education </b> and <b> Environmental & Sustainability Education</b>.</p>
+<p>I am a teacher educator whose interdisciplinary research interests include <b> <a href = 'https://sinemdemirci.github.io/research_dse.html' target="_blank"> Statistics & Data Science Education </b></a> and <b> <a href = 'https://sinemdemirci.github.io/research_esd.html' target="_blank"> Environmental & Sustainability Education</b></a>.</p>
 
 ---
 

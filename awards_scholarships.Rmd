@@ -12,10 +12,11 @@ site: distill::distill_website
 
 ## Awards and Scholarships
 
-|    |                                                 |
+|             |                                                                   |
 | :----       | :-------------------                                              | :--------------
-| 2021        | Scientific and Technological Research Council of Turkey (TUBITAK) | 2219 - Postdoctoral Research Scholarship
+| 2024        | Hot Topic Winner                                                  | eCOTS 2024
+| 2021        | Scientific and Technological Research Council of Türkiye (TUBITAK) | 2219 - Postdoctoral Research Scholarship
 | 2020        | European Educational Research Association (ECER)                  | Bursary Winner for ECER 2020 
 | 2015        | Middle East Technical University (METU)                           | Thesis of the Year
-| 2013        | Scientific and Technological Research Council of Turkey (TUBITAK) | 2224-A International Scientific Events Support Program
+| 2013        | Scientific and Technological Research Council of Türkiye (TUBITAK) | 2224-A International Scientific Events Support Program
 
