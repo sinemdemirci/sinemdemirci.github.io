@@ -1,5 +1,6 @@
 ---
 title: "Sinem Demirci"
+description: |
 image: "sinem_demirci_2.jpeg"
 links:
   - label: ORCID
@@ -7,20 +8,19 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=r_R0R6wAAAAJ&hl=tr"
   - label: Email
-    url: "mailto:s.demirci@ucl.ac.uk"
+    url: "mailto:sdemirci@calpoly.edu"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/drsinemdemirci/"
 output:
   postcards::trestles
+site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 ### Bio
 
-<p>I am a (Postdoctoral) Visiting Researcher/Lecturer in the Department of Statistical Science at <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> University College London</b></a>. I am a teacher educator whose interdisciplinary research interests include <b> statistics & data science education </b> and <b> environmental & sustainability education</b>.</p>
+<p>I am working as a Full-Time Lecturer in the Statistics Department at Cal Poly.</p>
+
+<p>I am a teacher educator whose interdisciplinary research interests include <b> <a href = 'https://sinemdemirci.github.io/research_dse.html' target="_blank"> Statistics & Data Science Education </b></a> and <b> <a href = 'https://sinemdemirci.github.io/research_esd.html' target="_blank"> Environmental & Sustainability Education</b></a>.</p>
 
 ---
 
@@ -28,9 +28,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                   |                                                                                                                 | 
 | :------           | :-------------                                                                                                  | :-----------
-| 2022 - Present    | Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> UCL </b> </a>  |Visiting Researcher / Lecturer
-| 2021 - 2022       | <b> <a href = 'https://tedmem.org' target="_blank"> TEDMEM </b> </a>                                            | Soc. and Edu. Research Specialist
-| 2013 - 2020       | Dept. of Math. & Sci. Education, <b> <a href = 'https://metu.edu.tr' target="_blank"> METU </b> </a>            | Teaching & Research Assistant
+| 2023 - Present    | Statistics Department, <b> <a href = 'https://statistics.calpoly.edu/' target="_blank"> Cal Poly </b> </a>      |Full-Time Lecturer
+| 2022 - 2023    | Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> UCL </b> </a>  |(Postdoc) Visiting Researcher / Lecturer
+| 2021 - 2022       | <b> <a href = 'https://ted.org.tr/en/tedmem/' target="_blank"> TEDMEM </b> </a> (Think Tank)                                           | Soc. and Edu. Research Specialist
+| 2013 - 2020       | Dept. of Math. & Sci. Education, <b> <a href = 'https://mse.metu.edu.tr/en' target="_blank"> METU </b> </a>            | Teaching & Research Assistant
 
 ---
 
@@ -42,8 +43,8 @@ knitr::opts_chunk$set(echo = FALSE)
 |                   |                                                     |
 | :--------         | :--------------------                              | :----------------:
 | **Degree**        | **Department**                                      | **Date of Graduation**
-| Ph.D.             | Elementary Education                                | Jan 2021
-| M.Sc.             | Statistics                                          | Oct 2018
-| M.Sc.             | Elementary Science and Mathematics Education        | Jan 2014
-| B.Sc.             | Elementary Science Education                        | Jun 2011
+| Ph.D.             | Elementary (Science) Education                                | Jan 2021
+| M.S.             | Statistics                                          | Oct 2018
+| M.S.             | Elementary Science and Mathematics Education        | Jan 2014
+| B.S.             | Elementary Science Education                        | Jun 2011
 ---

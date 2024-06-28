@@ -30,7 +30,7 @@ site: distill::distill_website
 | :------           | :-------------                                                                                                  | :-----------
 | 2023 - Present    | Statistics Department, <b> <a href = 'https://statistics.calpoly.edu/' target="_blank"> Cal Poly </b> </a>      |Full-Time Lecturer
 | 2022 - 2023    | Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> UCL </b> </a>  |(Postdoc) Visiting Researcher / Lecturer
-| 2021 - 2022       | <b> <a href = 'https://tedmem.org' target="_blank"> TEDMEM </b> </a> (Think Tank)                                           | Soc. and Edu. Research Specialist
+| 2021 - 2022       | <b> <a href = 'https://ted.org.tr/en/tedmem/' target="_blank"> TEDMEM </b> </a> (Think Tank)                                           | Soc. and Edu. Research Specialist
 | 2013 - 2020       | Dept. of Math. & Sci. Education, <b> <a href = 'https://mse.metu.edu.tr/en' target="_blank"> METU </b> </a>            | Teaching & Research Assistant
 
 ---
