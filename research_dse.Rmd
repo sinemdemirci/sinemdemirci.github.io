@@ -24,7 +24,13 @@ site: distill::distill_website
 # Conference Presentations 
 
 <p>
-3. **Demirci, S.**, Dogucu, M.,  Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Herding Cats: A Systematic Literature Review on Undergraduate Data Science Education Research [Paper Presentation]. The 2024 Pacific Division Annual Meeting, San Diego, California, U.S.A. <a href = "https://www.aaaspd.org/2024-annual-meeting.html" target="_blank">`r fontawesome::fa(name = "link")`</a> 
+
+4. **Demirci, S.**, Dogucu, M., Rosenberg, J.M. & Zieffler, A.(2024). Crafting University Experiences: Perspectives and Practices in Teaching Introductory Data Science [Topic-Contributed Paper Session]. Joint Statistical Meetings, Portland, Oregon, U.S.A. <a href = "https://ww2.amstat.org/meetings/jsm/2024/index.cfm" target="_blank">`r fontawesome::fa(name = "link")`</a> 
+<a href = "https://sinemdemirci.github.io/jsm-24" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
+</p>
+
+<p>
+3. **Demirci, S.**, Dogucu, M.,  Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Herding Cats: A Systematic Literature Review on Undergraduate Data Science Education Research [Paper Presentation]. The 2024 Pacific Division Annual Meeting, San Diego, California, U.S.A. _Selected as "hot topic of the day"_ <a href = "https://www.aaaspd.org/2024-annual-meeting.html" target="_blank">`r fontawesome::fa(name = "link")`</a> 
 <a href = "https://www.canva.com/design/DAGIDPh1m9U/4U8qcM2uWkMiA7O7aCCURQ/view?utm_content=DAGIDPh1m9U&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
