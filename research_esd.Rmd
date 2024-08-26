@@ -7,8 +7,13 @@ site: distill::distill_website
 
 # Peer Reviewed Articles
 
+
 <p>
-4. **Demirci, S.**, Sahin E., Teksoz, G. & Marcinkowski, T. J. (2021). Pre-Service teachers’ beliefs on human population growth in the context of education for sustainable development: development and validation of an instrument. *Journal of Teacher Education for Sustainability,23*(2), 121-142. 
+5. Seker S, Sahin E, Hacıeminoğlu E, **Demirci S**. (2024). Do teenagers believe in anthropogenic climate change and take action to tackle it? *Sustainability, 16*(16), 7005. <a href = "https://doi.org/10.3390/su16167005" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
+
+<p>
+4. **Demirci, S.**, Sahin E., Teksoz, G. & Marcinkowski, T. J. (2021). Pre-Service teachers’ beliefs on human population growth in the context of education for sustainable development: development and validation of an instrument. *Journal of Teacher Education for Sustainability, 23*(2), 121-142. 
 <a href = "https://doi.org/10.2478/jtes-2021-0021" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 

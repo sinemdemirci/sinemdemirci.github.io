@@ -8,6 +8,8 @@ site: distill::distill_website
 
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-----------------------                              | :-----------
+| STAT 217          | Introduction to Statistical Concepts and Methods      | Fall 2024 `r fontawesome::fa(name = "file-lines")`
+| STAT 218          | Applied Statistics for the Life Sciences              | Fall 2024 `r fontawesome::fa(name = "file-lines")` 
 | STAT 217          | Introduction to Statistical Concepts and Methods      | Summer 2024 <a href = "https://drive.google.com/file/d/1fiw7ClQMnOT8elOYs6f-jqnxHvA9RyoC/view?usp=sharing" target="_blank"> `r fontawesome::fa(name = "file-lines")`
 | STAT 218          | Applied Statistics for the Life Sciences              | Summer 2024 <a href = "https://drive.google.com/file/d/1ZP2ERbPyY2KUQK3OGXWtUjuwCC0Mop9J/view?usp=sharing" target="_blank">`r fontawesome::fa(name = "file-lines")` 
 | STAT 217          | Introduction to Statistical Concepts and Methods      | Spring 2024 <a href = "https://drive.google.com/file/d/1jsvYDAsTg0Qa1xLSUZcetLK-gxszyaAO/view?usp=sharing" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>

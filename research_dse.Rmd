@@ -8,11 +8,11 @@ site: distill::distill_website
 # Under Preparation/Review/Pre-Prints
 
 <p>
-2. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M. Undergraduate data science education: Who has the microphone and what are they saying? <a href = "https://arxiv.org/abs/2403.03387" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+2. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M. Undergraduate data science education: Who has the microphone and what are they saying? _Preprint_ <a href = "https://arxiv.org/abs/2403.03387" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>
-1. **Demirci, S.** & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data.(*under review*)
+1. **Demirci, S.** & Ilk, O. Variable selection via elastic net regression for international large-scale assessments: An application of PISA 2015 data. (*Under Review*)
 </p>
 
 # Peer Reviewed Publications
@@ -30,14 +30,14 @@ site: distill::distill_website
 </p>
 
 <p>
-3. **Demirci, S.**, Dogucu, M.,  Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Herding Cats: A Systematic Literature Review on Undergraduate Data Science Education Research [Paper Presentation]. The 2024 Pacific Division Annual Meeting, San Diego, California, U.S.A. _Selected as "hot topic of the day"_ <a href = "https://www.aaaspd.org/2024-annual-meeting.html" target="_blank">`r fontawesome::fa(name = "link")`</a> 
+3. **Demirci, S.**, Dogucu, M.,  Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Herding Cats: A Systematic Literature Review on Undergraduate Data Science Education Research [Paper Presentation]. The 2024 Pacific Division Annual Meeting, San Diego, California, U.S.A. <a href = "https://www.aaaspd.org/2024-annual-meeting.html" target="_blank">`r fontawesome::fa(name = "link")`</a> 
 <a href = "https://www.canva.com/design/DAGIDPh1m9U/4U8qcM2uWkMiA7O7aCCURQ/view?utm_content=DAGIDPh1m9U&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 
 
 <p>
-2. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Building Data Science Education Research Plan for Teacher-Scholars [Breakout Session]. Electronic Conference On Teaching Statistics (eCOTS 2024), Online.
+2. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Building Data Science Education Research Plan for Teacher-Scholars [Breakout Session]. Electronic Conference On Teaching Statistics (eCOTS 2024), Online. _Selected as "hot topic of the day"_
 <a href = "https://www.causeweb.org/cause/ecots/ecots24" target="_blank">`r fontawesome::fa(name = "link")`</a>
 <a href = "https://mdogucu.github.io/eCOTS-2024/" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
