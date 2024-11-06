@@ -9,6 +9,10 @@ site: distill::distill_website
 
 
 <p>
+6. **Demirci, S.**, Reid, A., Teksöz, G., & Sahin, E. (2024). Systems literacy: towards a conspectus and model for environmental and sustainability education. *Environmental Education Research*, 1–36.  <a href = "https://doi.org/10.1080/13504622.2024.2409959" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
+
+<p>
 5. Seker S, Sahin E, Hacıeminoğlu E, **Demirci S**. (2024). Do teenagers believe in anthropogenic climate change and take action to tackle it? *Sustainability, 16*(16), 7005. <a href = "https://doi.org/10.3390/su16167005" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
@@ -32,6 +36,11 @@ site: distill::distill_website
 
 
 # Conference Papers/Presentations
+
+<p>
+20. **Demirci, S.**, Reid, A., Teksöz, G., & Sahin, E. (2024). A Systems Literacy Approach to Understanding Climate Change Dynamics [Research Panel]. 21st Annual Research Symposium of North American Association for Environmental Education (NAAEE), Pittsburgh, Pennsylvania, U.S.A.
+<a href = "https://www.canva.com/design/DAGUyfEn1ik/4WI4OPn0npgjwFU9kQQGZA/view?utm_content=DAGUyfEn1ik&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
 
 <p>
 19. **Demirci, S.**, Reid. A, Teksoz, G. & Sahin E. (2023). Systems Literacy as a Key Concept for Quality Education and Agenda 2030. [Roundtable Discussion]. AERA 2023 Annual Meeting, Chicago, Illinois, U.S.A.
@@ -103,7 +112,7 @@ site: distill::distill_website
 </p>
 
 <p>
-7. **Demirci, S.**, Sahin E. & Teksoz, G. (2015). Is the Carrying Capacity Exceeded? Preservice Teachers’ Beliefs on Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association in Environmental Education, San Diego, California, U.S.A.
+7. **Demirci, S.**, Sahin E. & Teksoz, G. (2015). Is the Carrying Capacity Exceeded? Preservice Teachers’ Beliefs on Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association for Environmental Education, San Diego, California, U.S.A.
 <a href = "https://drive.google.com/file/d/1e8SUsiPjwaDdaydQV680lpNORPS8fXtz/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
@@ -130,7 +139,7 @@ site: distill::distill_website
 </p>
 
 <p>
-2. **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association in Environmental Education, Baltimore, Maryland, U.S.A.
+2. **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. [Roundtable Discussion]. The annual meeting of North American Association for Environmental Education, Baltimore, Maryland, U.S.A.
 <a href = "https://drive.google.com/file/d/1JdAmBbiFuCFGvo9JMJKTIuiWE86c3r-c/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 <a href = "https://convention2.allacademic.com/one/naaee/naaee13/" target="_blank"> `r fontawesome::fa(name = "link")`</a>
 </p>

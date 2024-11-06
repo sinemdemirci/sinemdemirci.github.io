@@ -15,6 +15,10 @@ This section includes professional and on-campus workshops and invited talks on 
 ## Invited Talks
 
 <p>
+24. Demirci S. *Statistics and Data Science Pedagogy: What to Teach and How to Teach in Diverse Classrooms with Examples.* Invited talk at Middle East Technical University, Ankara, Department of Statistics, Online, October 25, 2024  <a href = "https://drive.google.com/file/d/14LULjxMr1qcu_hcsP_hC3pHgsaywMEVt/view?usp=sharing" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
+</p>
+
+<p>
 23. Demirci S. *Evolving Landscape of Data Science Education: From Instructor Pedagogy to Policy Perspectives*. Invited talk at California State University, Fullerton, Department of Mathematics, February 2, 2024 <a href = "https://sinemdemirci.github.io/CSUF-research-talk/research-talk.html
 " target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
 </p>
