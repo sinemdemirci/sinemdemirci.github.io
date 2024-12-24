@@ -55,15 +55,3 @@ site: distill::distill_website
 Postdoctoral Visiting Researcher / Lecturer, 2022 - 2023     
 Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> University College London </b></a>  
 __Postdoc Mentor:__ <a href = 'https:minedogucu.com' target="_blank"> Dr. Mine Dogucu </a>  
-
-# Theses
-
-<p>
-2. Demirci S. (2018). A Closer look to Turkish students' scientific literacy: What do PISA 2015 results tell us? [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/27834" target="_blank"> `r fontawesome::fa(name = "book-bookmark")` </a>   
-__Advisor:__ <a href = "https://stat.metu.edu.tr/en/ozlem-ilk-dag" target="_blank"> Prof. Dr. Ozlem Ilk Dag </a>
-</p>
-
-<p>
-1. Demirci S. (2014). Development and validation of human population growth scale in the context of sustainability. [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/23331" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>   
-__Advisors:__ <a href = "https://avesis.metu.edu.tr/selvan" target="_blank"> Prof. Dr. Elvan Sahin </a> & <a href = "https://avesis.metu.edu.tr/gtuncer" target="_blank"> Prof. Dr. Gaye Teksoz </a>
-</p>
