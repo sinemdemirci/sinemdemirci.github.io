@@ -8,7 +8,7 @@ site: distill::distill_website
 
 | **Course Code**   | **Course Name**                                       | **Term**
 | :-------          | :-------------------                                  | :---------------
-| STAT 251          | Statistical Inference for Management I                | Winter 25    
+| STAT 251          | Statistical Inference for Management I                | Winter 25 - Present <a href = "https://drive.google.com/file/d/1FKXjGfU2ubt2PAIywTjPZM2gKUPOywGN/view?usp=sharing" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>  
 | STAT 217          | Introduction to Statistical Concepts and Methods      | 3 Quarters (Spr 24 - Fall 24) <a href = "https://drive.google.com/file/d/1jsvYDAsTg0Qa1xLSUZcetLK-gxszyaAO/view?usp=sharing" target="_blank">`r fontawesome::fa(name = "file-lines")`</a>
 | STAT 218          | Applied Statistics for the Life Sciences              | 4 Quarters (2023 - 2024) <a href = "https://stat218-fall24.github.io/website/" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 

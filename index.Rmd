@@ -35,16 +35,16 @@ site: distill::distill_website
 
 ---
 
+
 ### Education 
 
 
 <b> <a href = 'https://metu.edu.tr' target="_blank"> Middle East Technical University </b> </a>  | Ankara, Turkey
 
 |                   |                                                     |
-| :--------         | :--------------------                              | :----------------:
-| **Degree**        | **Department**                                      | **Date of Graduation**
-| Ph.D.             | Elementary (Science) Education                                | Jan 2021
-| M.S.             | Statistics                                          | Oct 2018
-| M.S.             | Elementary Science and Mathematics Education        | Jan 2014
-| B.S.             | Elementary Science Education                        | Jun 2011
+| :--------         | :------------------------                              | :----------------:   
+| Ph.D.             | Elementary (Science) Education                                | 2021
+| M.S.             | Statistics                                          | 2018
+| M.S.             | Elementary Science and Mathematics Education        | 2014
+| B.S.             | Elementary Science Education                        | 2011
 ---

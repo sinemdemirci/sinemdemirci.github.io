@@ -5,32 +5,31 @@ site: distill::distill_website
 ---
 
 
-# Under Preparation/Review/Pre-Prints
-
-<p>
-1. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M. Undergraduate data science education: Who has the microphone and what are they saying? _Preprint_ <a href = "https://arxiv.org/abs/2403.03387" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
-</p>
 
 # Peer Reviewed Publications
+
+<p>
+3. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2025). A Systematic Literature Review of Undergraduate Data Science Education Research. Journal of Statistics and Data Science Education, 1–20. <a href = "https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2486656" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+</p>
 
 <p>
 2. Demirci, S., & İlk, Ö. (2024). A Comparative Analysis of PISA 2015 Türkiye Studies: Introducing A Variable Selection Model to International Large-Scale Assessments. Van Yüzüncü Yıl University Journal of Education, 21(3), 840-868. <a href = "https://doi.org/10.33711/yyuefd.1539072" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>  
 </p>
 
 <p>
-1. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M. (2023). Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. <a href = "https://escholarship.org/uc/item/01p3k7f3" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+1. Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. (2023). Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. <a href = "https://escholarship.org/uc/item/01p3k7f3" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 # Conference Presentations 
 
 <p>
 
-4. **Demirci, S.**, Dogucu, M., Rosenberg, J.M. & Zieffler, A.(2024). Crafting University Experiences: Perspectives and Practices in Teaching Introductory Data Science [Topic-Contributed Paper Session]. Joint Statistical Meetings, Portland, Oregon, U.S.A. <a href = "https://ww2.amstat.org/meetings/jsm/2024/index.cfm" target="_blank">`r fontawesome::fa(name = "link")`</a> 
+4. Demirci, S., Dogucu, M., Rosenberg, J.M. & Zieffler, A.(2024). Crafting University Experiences: Perspectives and Practices in Teaching Introductory Data Science [Topic-Contributed Paper Session]. Joint Statistical Meetings, Portland, Oregon, U.S.A. <a href = "https://ww2.amstat.org/meetings/jsm/2024/index.cfm" target="_blank">`r fontawesome::fa(name = "link")`</a> 
 <a href = "https://sinemdemirci.github.io/jsm-24" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
 <p>
-3. **Demirci, S.**, Dogucu, M.,  Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Herding Cats: A Systematic Literature Review on Undergraduate Data Science Education Research [Paper Presentation]. The 2024 Pacific Division Annual Meeting, San Diego, California, U.S.A. <a href = "https://www.aaaspd.org/2024-annual-meeting.html" target="_blank">`r fontawesome::fa(name = "link")`</a> 
+3. Demirci, S., Dogucu, M.,  Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2024). Herding Cats: A Systematic Literature Review on Undergraduate Data Science Education Research [Paper Presentation]. The 2024 Pacific Division Annual Meeting, San Diego, California, U.S.A. <a href = "https://www.aaaspd.org/2024-annual-meeting.html" target="_blank">`r fontawesome::fa(name = "link")`</a> 
 <a href = "https://www.canva.com/design/DAGIDPh1m9U/4U8qcM2uWkMiA7O7aCCURQ/view?utm_content=DAGIDPh1m9U&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
 
@@ -44,7 +43,7 @@ site: distill::distill_website
 
 
 <p>
-1. **Demirci S.**, Dogucu, M. Zieffler A. & Rosenberg, J.M.(2023). Learning Difficulties of Introductory Data Science Students. [Paper presentation]. 13th IASE Satellite Conference, Toronto, Canada.
+1. Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M.(2023). Learning Difficulties of Introductory Data Science Students. [Paper presentation]. 13th IASE Satellite Conference, Toronto, Canada.
 <a href = "https://iase2023satellite.github.io/speakers.html" target="_blank">`r fontawesome::fa(name = "link")`</a>
   <a href="https://sinemdemirci.github.io/iase-2023/" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 </p>
