@@ -43,8 +43,8 @@ site: distill::distill_website
 
 |                   |                                                     |
 | :--------         | :------------------------                              | :----------------:   
-| Ph.D.             | Elementary (Science) Education                                | 2021
-| M.S.             | Statistics                                          | 2018
-| M.S.             | Elementary Science and Mathematics Education        | 2014
-| B.S.             | Elementary Science Education                        | 2011
+| Ph.D.             | Elementary (Science) Education                                |  
+| M.S.             | Statistics                                          |  
+| M.S.             | Elementary Science and Mathematics Education        |  
+| B.S.             | Elementary Science Education                        |  
 ---

@@ -5,7 +5,7 @@ description: |
 site: distill::distill_website
 ---
 
-# Publications (Peer-Reviewed)
+# Peer-Reviewed Publications
 
 <p>
 1. **Demirci, S.**, Yilmaz, A., & Sahin, E. (2016). Lise ve üniversite öğrencilerinin atomun yapısı ile ilgili zihinsel modellerine genel bir bakış. [An Overview of High School and University Students' Mental Models of the Structure of the Atom]. *Turkiye Kimya Dernegi Dergisi, Kisim C: Kimya Egitimi, 1*(1), 87-106. <a href = "https://dergipark.org.tr/en/pub/jotcsc/issue/30533/330312" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
@@ -13,7 +13,7 @@ site: distill::distill_website
 
 
 
-# Conference Papers/Presentations
+# Conference Papers/Presentations <sup>†</sup>
 
 
 <p>
@@ -53,3 +53,5 @@ site: distill::distill_website
 <p>
 1. Sahin, E., Yilmaz. A & **Demirci, S.** (2015). A Review of Elementary Students’ Conceptual Understandings of ‘Atom. [Paper presentation]. International Organization for Science and Technology Education (IOSTE), İstanbul, Turkey
 </p>
+
+<p><sup>†</sup> Some works are cross-listed under *Science Education* and *Environmental & Sustainability Education*. This is because certain works are relevant to both fields.</p>

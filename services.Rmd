@@ -8,7 +8,7 @@ site: distill::distill_website
 
 |                                                                   | 
 | :-------------                                                    | :---------  
-| American Statistical Association (ASA)                            | 2023 - Present
+| American Statistical Association (ASA)                            | 2023 - 2025
 | Associate Fellow, Higher Education Academy                        | 2023 - Present
 | American Educational Research Association (AERA)                  | 2023
 | North American Association for Environmental Education            | 2013 - 2014 & 2015 - 2016
@@ -20,7 +20,7 @@ site: distill::distill_website
 
 |                                                           |   
 | :-------------                                            | :----                           
-| Journal of Statistics and Data Science Education          | 2024
+| Journal of Statistics and Data Science Education          | 2024 - Present
 | Journal of Turkish Science Education                      | 2024
 | Environmental Education Research                          | 2022 - Present
 | Van Yuzuncu Yil University Journal of Education           | 2022 & 2023
@@ -59,7 +59,7 @@ site: distill::distill_website
 </p>
 
 <p>
-3. Reviewer at NAAEE’s 2023 conference
+3. Reviewer at 52th Annual NAAEE conference, 2023
 </p>
 
 <p>

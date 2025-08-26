@@ -5,7 +5,7 @@ site: distill::distill_website
 ---
 
 
-# Peer Reviewed Articles
+# Peer Reviewed Publications
 
 
 <p>
@@ -35,7 +35,7 @@ site: distill::distill_website
 </p>
 
 
-# Conference Papers/Presentations
+# Conference Papers/Presentations<sup>†</sup>
 
 <p>
 20. **Demirci, S.**, Reid, A., Teksöz, G., & Sahin, E. (2024). A Systems Literacy Approach to Understanding Climate Change Dynamics [Research Panel]. 21st Annual Research Symposium of North American Association for Environmental Education (NAAEE), Pittsburgh, Pennsylvania, U.S.A.
@@ -148,15 +148,6 @@ site: distill::distill_website
 1. **Cokoglu, S.** & Sahin, E. (2012). Beliefs toward Population Growth in Turkey. [Paper presentation]. 1. Ulusal Disiplinlerarası Cevre Kongresi, Sakarya, Turkey
 </p>
 
-# Theses
 
-<p>
-2. Demirci S. (2021). Exploring middle school students’ systems literacy within the context of water system
-. [Ph.D. thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/89645" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>   
-__Advisors:__ <a href = "https://avesis.metu.edu.tr/selvan" target="_blank"> Prof. Dr. Elvan Sahin </a> & <a href = "https://avesis.metu.edu.tr/gtuncer" target="_blank"> Prof. Dr. Gaye Teksoz </a>
-</p>
+<p><sup>†</sup> Some works are cross-listed under *Science Education* and *Environmental & Sustainability Education*. This is because certain works are relevant to both fields.</p>
 
-<p>
-1. Demirci S. (2014). Development and validation of human population growth scale in the context of sustainability. [Master's thesis, Middle East Technical University]. <a href = "https://open.metu.edu.tr/handle/11511/23331" target="_blank">`r fontawesome::fa(name = "book-bookmark")`</a>   
-__Advisors:__ <a href = "https://avesis.metu.edu.tr/selvan" target="_blank"> Prof. Dr. Elvan Sahin </a> & <a href = "https://avesis.metu.edu.tr/gtuncer" target="_blank"> Prof. Dr. Gaye Teksoz </a>
-</p>

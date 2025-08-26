@@ -30,15 +30,7 @@ navbar:
           href: other.html 
 
     - text: "Projects"
-      menu:
-        - text: "Statistics & Data Science Education"
-          href: projects_dse.html
-        - text: "---"
-        - text: "Environmental & Sustainability Education"
-          href: projects_esd.html
-        - text: "---"
-        - text: "Science Education"
-          href: projects_ese.html
+      href: projects_esd.html
   
     - text: "Workshops & Talks"
       href: invited_talks.html

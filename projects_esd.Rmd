@@ -4,6 +4,22 @@ description: null
 site: distill::distill_website
 ---
 
+                         
+**Project title:**  Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education
+
+**Principle Investigator:** Dr Sinem Demirci
+
+**Co-PI**: Dr Mine Dogucu – University College London
+
+**Collaborators:** Dr Joshua M. Rosenberg – University of Tennessee, Knoxville and Dr Andrew Zieffler – University of Minnesota
+
+**Funded by:** The Scientific and Technological Research Council of Türkiye, TÜBİTAK
+
+**Sponsored by:** University College London
+
+**Time spent:** Principal Investigator, 01.08.2022 - 31.07.2023 
+
+---
 
 **Project title:** Copten Gubreye 3 [<a href = "https://tbm.metu.edu.tr/cevre-egitimleri-projeler/" target="_blank"> From Waste to Fertilizer 3 - Composting</a>]
 
@@ -38,5 +54,22 @@ site: distill::distill_website
 **Role & time spent:** Researcher, 1.1.2013 - 31.12.2013 
 
 **Project No:** BAP-07-03-2013-010
+
+---
+
+**Project title:** In-service Science Teachers’ Teaching Experiences on Atomic Models within the context of History of Science   
+
+**Principal Investigator:**  Assoc. Prof. Dr. Elvan Şahin (METU, Dept. of Science and Mathematics Education)    
+
+**Collaborators:** Prof. Dr. Ayhan Yilmaz - Hacettepe University   
+
+Res. Assist. Sinem Demirci - Middle East Technical University   
+
+
+**Supported by:** Scientific Research Projects Coordination Unit, Middle East Technical    
+
+**Role & time spent:** Researcher, 1.1.2015 -31.12.2015    
+
+**Project No:** BAP-05-06-2015-001   
 
 ---
