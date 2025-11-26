@@ -27,8 +27,18 @@ site: distill::distill_website
 # Conference Presentations 
 
 <p>
-5. Tackett, M. & **Demirci, S.** (2025). Exploring Faculty Motivation and Practices Using Universal Design for Instruction. Lightning talk presented at RoSE 2025 E-Conference, Online. <a href = "https://www.rose-network.org/events/rose-2025" target="_blank">`r fontawesome::fa(name = "link")`</a> 
-</p
+7. Chance, B., **Demirci, S.**, Grove, R., Kandali, V.S., Ravat U.,Truong A. C.  & Wilcox, D. (2026). Measuring and Evoking Curiosity in Statistics/Probability Students [Accepted Oral Presentation]. 12th International Conference on Teaching Statistics, Brisbane, Australia.
+</p>
+
+
+<p>
+6. Tackett, M. & **Demirci, S.** (2025). Exploring Faculty Motivation and Practices Using Universal Design for Instruction. Lightning talk presented at RoSE 2025 E-Conference, Online. <a href = "https://www.rose-network.org/events/rose-2025" target="_blank">`r fontawesome::fa(name = "link")`</a> 
+</p>
+
+<p>
+5. Behroozi, D. Schedler, J. & **Demirci S**. (2025). The Sound of Statistics: Can Sonified Data Elicit an Emotional Response? [Poster Presentation]. Eighth annual Symposium on Data Science and Statistics, The American Statistical Association, Salt Lake City, Utah, U.S.A.
+</p>
+
 
 <p>
 4. Demirci, S., Dogucu, M., Rosenberg, J.M. & Zieffler, A. (2024). Crafting University Experiences: Perspectives and Practices in Teaching Introductory Data Science [Topic-Contributed Paper Session]. Joint Statistical Meetings, Portland, Oregon, U.S.A. <a href = "https://ww2.amstat.org/meetings/jsm/2024/index.cfm" target="_blank">`r fontawesome::fa(name = "link")`</a> 

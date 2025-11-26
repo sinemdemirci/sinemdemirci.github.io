@@ -9,7 +9,7 @@ site: distill::distill_website
 
 
 <p>
-6. **Demirci, S.**, Reid, A., Teksöz, G., & Sahin, E. (2024). Systems literacy: towards a conspectus and model for environmental and sustainability education. *Environmental Education Research*, 1–36.  <a href = "https://doi.org/10.1080/13504622.2024.2409959" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+6. **Demirci, S.**, Reid, A., Teksöz, G., & Sahin, E. (2024). Systems literacy: towards a conspectus and model for environmental and sustainability education. *Environmental Education Research, 31*(4), 856–891. <a href = "https://doi.org/10.1080/13504622.2024.2409959" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>

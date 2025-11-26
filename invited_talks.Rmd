@@ -15,6 +15,10 @@ This section includes professional and on-campus workshops and invited talks on 
 ## Invited Talks
 
 <p>
+25. Demirci S. *Introduction to Statistics and Data Science Pedagogy: Microteaching Examples in Diverse Classrooms.* Invited talk at Middle East Technical University, Ankara, Department of Statistics, Online, November 24, 2025 <a href = "https://www.canva.com/design/DAGUbd6x_FE/Ma-vPsiOCw5-xdiOPDMObQ/view?utm_content=DAGUbd6x_FE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h981fad5352" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>.
+</p>
+
+<p>
 24. Demirci S. *Statistics and Data Science Pedagogy: What to Teach and How to Teach in Diverse Classrooms with Examples.* Invited talk at Middle East Technical University, Ankara, Department of Statistics, Online, October 25, 2024  <a href = "https://drive.google.com/file/d/14LULjxMr1qcu_hcsP_hC3pHgsaywMEVt/view?usp=sharing" target="_blank"> `r fontawesome::fa(name = "desktop")` </a>
 </p>
 

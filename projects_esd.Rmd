@@ -4,6 +4,45 @@ description: null
 site: distill::distill_website
 ---
 
+**Project title:** Exploring Faculty Motivation and Practices Using Universal Design for Instruction in Introductory Statistics/Data Science Classrooms  
+
+**PI:** Dr. Maria Tackett  
+
+**Co-Investigators:** Dr. Sinem Demirci
+
+**Funded by:** American Statistical Association Section on Statistics and Data Science Education Member Initiative Grant
+
+**Role & time spent:** Co-Investigator, 16.12.2024 – Present
+
+---
+
+**Project title:** Exploring the Role of Curiosity in Learning Statistics
+
+**PI:** Dr. Beth Chance  
+
+**Co-Investigators:** Dr. Sinem Demirci, Visruth Srimath Kandali – Cal Poly San Luis Obispo
+
+**Partners/Collaborators:** Ranjani Grove - University of Washington,
+David Wilcox - The Lawrenceville School,
+Uma Ravat - UC Santa Barbara  
+
+**Role & time spent:** Co-Investigator, 29.10.2024 - Present 
+
+---
+
+**Project title:** Coastal California Classroom Initiative – Exploring the Impact of Sonification on Identifying Skewed Distributions in Introductory Statistics	
+
+**PI:** Jeanine Scaramozzino – Cal Poly, San Luis Obispo  
+
+**Co-Investigators:** Dr. Julia Schedler, Dr. Sinem Demirci – Cal Poly San Luis Obispo  
+
+**Partners/Collaborators:** Donya Ava Behroozi, Annica Wu, Josh Schneider, Aaron C. Liggett, – Cal Poly San Luis Obispo  
+
+**Funded by:** CET Seed Grants  
+
+**Role & time spent:** Co-Investigator, 2024 - 2025 
+
+---
                          
 **Project title:**  Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education
 
