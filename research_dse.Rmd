@@ -13,7 +13,7 @@ site: distill::distill_website
 </p>
 
 <p>
-3. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2025). A Systematic Literature Review of Undergraduate Data Science Education Research. Journal of Statistics and Data Science Education, 1–13. <a href = "https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2486656" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
+3. Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2025). A Systematic Literature Review of Undergraduate Data Science Education Research. Journal of Statistics and Data Science Education, 33(4), 459–471. <a href = "https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2486656" target="_blank"> `r fontawesome::fa(name = "file-lines")`</a>
 </p>
 
 <p>
