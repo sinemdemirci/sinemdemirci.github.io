@@ -1,0 +1,132 @@
+---
+title: ""
+editor: visual
+---
+
+::: column-page
+## Research Projects
+
+**Project title:** Designing an Accessible and Inclusive Research Environment for Optics and Laser Laboratories
+
+**PI:** Dr. Isinsu Baylam Toker
+
+**Co-Investigator:** Dr. Sinem Demirci
+
+**Student Researcher:** Mico Richard Bonanno
+
+**Funding:** Frost Summer Undergraduate Research Program
+
+**Project Period:** Summer 2026–Present
+
+------------------------------------------------------------------------
+
+**Project title:** Exploring Faculty Motivation and Practices Using Universal Design for Instruction in Introductory Statistics/Data Science Classrooms
+
+**PI:** Dr. Maria Tackett (Duke University)
+
+**Co-Investigator:** Dr. Sinem Demirci
+
+**Student Researcher:** Naya Ko (Duke University)
+
+**Funding:** American Statistical Association Section on Statistics and Data Science Education Member Initiative Grant
+
+**Project Period:** 2024–Present
+
+------------------------------------------------------------------------
+
+**Project title:** Exploring the Role of Curiosity in Learning Statistics
+
+**PI:** Dr. Beth Chance
+
+**Co-Investigators:** Dr. Sinem Demirci – Cal Poly San Luis Obispo
+
+**Student Researchers:** Visruth Srimath Kandali, Amy Chau Troung – Cal Poly San Luis Obispo
+
+**Partners/Collaborators:** Ranjani Grove – University of Washington, David Wilcox – The Lawrenceville School, Uma Ravat – UC Santa Barbara
+
+**Project Period:** 2024–Present
+
+------------------------------------------------------------------------
+
+**Project title:** Coastal California Classroom Initiative – Exploring the Impact of Sonification on Identifying Skewed Distributions in Introductory Statistics
+
+**PI:** Jeanine Scaramozzino – Cal Poly, San Luis Obispo
+
+**Co-Investigators:** Dr. Julia Schedler, Dr. Sinem Demirci – Cal Poly San Luis Obispo
+
+**Partners/Collaborators:** Donya Ava Behroozi, Annica Wu, Josh Schneider, Aaron C. Liggett, – Cal Poly San Luis Obispo
+
+**Funding:** CET Seed Grants
+
+**Project Period:** 2024–2025
+
+------------------------------------------------------------------------
+
+**Project title:** Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education
+
+**Principle Investigator:** Dr Sinem Demirci
+
+**Co-PI**: Dr Mine Dogucu – University College London
+
+**Collaborators:** Dr Joshua M. Rosenberg – University of Tennessee, Knoxville and Dr Andrew Zieffler – University of Minnesota
+
+**Funding:** The Scientific and Technological Research Council of Türkiye, TÜBİTAK
+
+**Sponsored by:** University College London
+
+**Project Period:** 2022–2023
+
+------------------------------------------------------------------------
+
+**Project title:** Copten Gubreye 3 \[<a href = "https://tbm.metu.edu.tr/cevre-egitimleri-projeler/" target="_blank"> From Waste to Fertilizer 3 – Composting</a>\]
+
+**Principal Investigator:** Dr. Serap Bilen (METU, Society and Science Application and Research Center)
+
+**Supported by:** The Scientific and Technological Research Council of Turkey, TUBİTAK
+
+**Role & Project Period:** Trainer, 2019
+
+**Project No:** 218B226
+
+------------------------------------------------------------------------
+
+**Project title:** Copten Gubreye! \[<a href = "https://tbm.metu.edu.tr/cevre-egitimleri-projeler/" target="_blank"> From Waste to Fertilizer 1 – Composting</a>\]
+
+**Principal Investigator:** Dr. Serap Bilen (METU, Society and Science Application and Research Center)
+
+**Supported by:** The Scientific and Technological Research Council of Turkey, TUBİTAK
+
+**Role & Project Period:** Trainer, 2017
+
+**Project No:** 117B056
+
+------------------------------------------------------------------------
+
+**Project title:** University Students’ Beliefs on Human Population Growth
+
+**Principal Investigator:** Assoc. Prof. Dr. Elvan Sahin (METU, Dept. of Science and Mathematics Education)
+
+**Supported by:** Scientific Research Projects Coordination Unit, Middle East Technical University
+
+**Role & Project Period:** Researcher, 2013
+
+**Project No:** BAP-07-03-2013-010
+
+------------------------------------------------------------------------
+
+**Project title:** In-service Science Teachers’ Teaching Experiences on Atomic Models within the context of History of Science
+
+**Principal Investigator:** Assoc. Prof. Dr. Elvan Şahin (METU, Dept. of Science and Mathematics Education)
+
+**Collaborators:** Prof. Dr. Ayhan Yilmaz – Hacettepe University
+
+Res. Assist. Sinem Demirci – Middle East Technical University
+
+**Supported by:** Scientific Research Projects Coordination Unit, Middle East Technical
+
+**Role & Project Period:** Researcher, 2015
+
+**Project No:** BAP-05-06-2015-001
+
+------------------------------------------------------------------------
+:::

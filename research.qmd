@@ -1,0 +1,327 @@
+---
+title: ""
+toc: true
+editor: visual
+---
+
+# Statistics and Data Science Education
+
+## Peer Reviewed Publications/Preprints
+
+<p>
+
+5.  Chance, B., Demirci, S., Grove, R., Ravat U., Kandali, V.S., Wilcox, D., & Truong A. C. (2026, in press). Measuring and evoking curiosity in statistics/probability students. In Proceedings of the 12th International Conference on Teaching Statistics, Brisbane, Australia.
+
+</p>
+
+<p>
+
+4.  Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. (2025, Preprint). Understanding Pedagogical Content Knowledge of Data Science Instructors: An Inaugural Framework. <a href = "https://doi.org/10.48550/arXiv.2508.14009" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+3.  Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M.(2025). A Systematic Literature Review of Undergraduate Data Science Education Research. Journal of Statistics and Data Science Education, 33(4), 459–471. <a href = "https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2486656" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+2.  Demirci, S., & İlk, Ö. (2024). A Comparative Analysis of PISA 2015 Türkiye Studies: Introducing A Variable Selection Model to International Large-Scale Assessments. Van Yüzüncü Yıl University Journal of Education, 21(3), 840-868. <a href = "https://doi.org/10.33711/yyuefd.1539072" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+1.  Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. (2023). Learning Difficulties of Introductory Data Science Students. In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online. <a href = "https://escholarship.org/uc/item/01p3k7f3" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+## Conference Presentations
+
+<p>
+
+9.  Demirci, S. & Tackett, M. (2026). Insights into the Use of Universal Design for Instruction in Introductory Statistics & Data Science. \[Contributed Paper Session\]. Joint Statistical Meetings, Boston, Oregon, Massachusetts, U.S.A.
+
+</p>
+
+<p>
+
+8.  Chance, B., **Demirci, S.**, Grove, R., Ravat U., Kandali, V.S., Wilcox, D., & Truong A. C. (2026). Measuring and Evoking Curiosity in Statistics/Probability Students \[Oral Presentation\]. 12th International Conference on Teaching Statistics, Brisbane, Australia. <a href = "https://icots12.oa-event.com/programme" target="_blank">{{< fa link >}}</a>
+
+</p>
+
+<p>
+
+7.  Tackett, M. & **Demirci, S.** (2026). Opportunities and Barriers to Implementing Universal Design for Instruction in Introductory Statistics and Data Science Classrooms. \[Breakout Session\]. Electronic Conference On Teaching Statistics (eCOTS 2026), Online.*"* <a href = "https://www.causeweb.org/cause/ecots/ecots26/program/breakouts/1A" target="_blank">{{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+6.  Tackett, M. & **Demirci, S.** (2025). Exploring Faculty Motivation and Practices Using Universal Design for Instruction. Lightning talk presented at RoSE 2025 E-Conference, Online. <a href = "https://www.rose-network.org/events/rose-2025" target="_blank">{{< fa link >}}</a>
+
+</p>
+
+<p>
+
+5.  Behroozi, D. Schedler, J. & **Demirci S**. (2025). The Sound of Statistics: Can Sonified Data Elicit an Emotional Response? \[Poster Presentation\]. Eighth annual Symposium on Data Science and Statistics, The American Statistical Association, Salt Lake City, Utah, U.S.A.
+
+</p>
+
+<p>
+
+4.  Demirci, S., Dogucu, M., Rosenberg, J.M. & Zieffler, A. (2024). Crafting University Experiences: Perspectives and Practices in Teaching Introductory Data Science \[Topic-Contributed Paper Session\]. Joint Statistical Meetings, Portland, Oregon, U.S.A. <a href = "https://ww2.amstat.org/meetings/jsm/2024/index.cfm" target="_blank">{{< fa link>}}</a> <a href = "https://sinemdemirci.github.io/jsm-24" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+3.  Demirci, S., Dogucu, M., Bendekgey, H., Ricci F. Z.,& Medina, C. M. (2024). Herding Cats: A Systematic Literature Review on Undergraduate Data Science Education Research \[Paper Presentation\]. The 2024 Pacific Division Annual Meeting, San Diego, California, U.S.A. <a href = "https://www.canva.com/design/DAGIDPh1m9U/4U8qcM2uWkMiA7O7aCCURQ/view?utm_content=DAGIDPh1m9U&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+2.  Dogucu, M., **Demirci, S.**, Bendekgey, H., Ricci F. Z.,& Medina, C. M. (2024). Building Data Science Education Research Plan for Teacher-Scholars \[Breakout Session\]. Electronic Conference On Teaching Statistics (eCOTS 2024), Online. *Selected as "hot topic of the day"* <a href = "https://www.causeweb.org/cause/ecots/ecots24" target="_blank">{{< fa link >}}</a> <a href = "https://mdogucu.github.io/eCOTS-2024/" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+1.  Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. (2023). Learning Difficulties of Introductory Data Science Students. \[Paper presentation\]. 13th IASE Satellite Conference, Toronto, Canada. <a href = "https://iase2023satellite.github.io/speakers.html" target="_blank">{{< fa link >}}</a> <a href="https://sinemdemirci.github.io/iase-2023/" target="_blank">{{< fa desktop >}}</a>
+
+</p>
+
+# Environmental and Sustainability Education
+
+## Peer Reviewed Publications
+
+<p>
+
+6.  **Demirci, S.**, Reid, A., Teksöz, G., & Sahin, E. (2024). Systems literacy: towards a conspectus and model for environmental and sustainability education. *Environmental Education Research, 31*(4), 856–891. <a href = "https://doi.org/10.1080/13504622.2024.2409959" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+5.  Seker S, Sahin E, Hacıeminoğlu E, **Demirci S**. (2024). Do teenagers believe in anthropogenic climate change and take action to tackle it? *Sustainability, 16*(16), 7005. <a href = "https://doi.org/10.3390/su16167005" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+4.  **Demirci, S.**, Sahin E., Teksoz, G. & Marcinkowski, T. J. (2021). Pre-Service teachers’ beliefs on human population growth in the context of education for sustainable development: development and validation of an instrument. *Journal of Teacher Education for Sustainability, 23*(2), 121-142. <a href = "https://doi.org/10.2478/jtes-2021-0021" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+3.  **Demirci, S.** & Sahin, E. (2018). An analysis of Turkish middle school science education program placing climate change issues in the context of education for sustainable development. *International Journal of Quality in Education, 2*(1), 13-21. <a href = "https://dergipark.org.tr/en/pub/ijqe/issue/37135/427929" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+2.  **Demirci, S.** (2018). The context of sustainable development in Turkish elementary science curriculum. *International Journal of Quality in Education, 1*(1), 54-61. <a href = "https://dergipark.org.tr/en/pub/ijqe/issue/37117/427577" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+1.  **Demirci, S.** & Teksöz, G. (2017). Self-Efficacy beliefs on integrating sustainability into profession and daily life: in the words of university students. *International Electronic Journal of Environmental Education, 7*(2), 116-133. <a href = "https://files.eric.ed.gov/fulltext/EJ1180990.pdf" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+## Conference Papers/Presentations<sup>†</sup>
+
+<p>
+
+20. **Demirci, S.**, Reid, A., Teksöz, G., & Sahin, E. (2024). A Systems Literacy Approach to Understanding Climate Change Dynamics \[Research Panel\]. 21st Annual Research Symposium of North American Association for Environmental Education (NAAEE), Pittsburgh, Pennsylvania, U.S.A. <a href = "https://www.canva.com/design/DAGUyfEn1ik/4WI4OPn0npgjwFU9kQQGZA/view?utm_content=DAGUyfEn1ik&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+19. **Demirci, S.**, Reid. A, Teksoz, G. & Sahin E. (2023). Systems Literacy as a Key Concept for Quality Education and Agenda 2030. \[Roundtable Discussion\]. AERA 2023 Annual Meeting, Chicago, Illinois, U.S.A. <a href = "https://www.aera.net/Events-Meetings/2023-Annual-Meeting/2023-Annual-Meeting-Program-Information" target="_blank">{{< fa link >}}</a> <a href= "https://aera23-aera.ipostersessions.com/Default.aspx?s=68-D3-C1-36-1C-76-7C-A5-58-2D-5F-32-C9-A8-2B-FB" target="_blank"> {{< fa chart-pie >}}</a>
+
+</p>
+
+<p>
+
+18. **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Eight-Graders’ Understanding of Hidden Use of Water and Their Action Strategies for Sustainable Use of Water.\[Paper presentation\]. European Conference on Educational Research, Geneva, Switzerland <a href = "https://eera-ecer.de/ecer-programmes/conference/26/contribution/50836/" target="_blank">{{< fa link >}}</a> <a href= "https://drive.google.com/file/d/1BxbggF9j91Ewos7qCIAIm1BsYV86anBr/view?usp=share_link" target="_blank"> {{< fa chart-pie >}}</a> <a href="https://drive.google.com/file/d/1bVVBgeLto3ZAWT_5YbDzMSBMakm0vNaN/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+17. **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Middle School Students’ Perceptions on the Interactions among Water Cycle, Global Warming, and Climate Change. \[Paper presentation\]. European Conference on Educational Research, Geneva, Switzerland <a href = "https://eera-ecer.de/ecer-programmes/conference/26/contribution/50838/" target="_blank">{{< fa link >}}</a> <a href= "https://drive.google.com/file/d/1B6fxqdtqb9nmFwyQRCInvKh_NdnTWS99/view?usp=share_link" target="_blank"> {{< fa chart-pie >}}</a> <a href="https://drive.google.com/file/d/1EbV9umjzHm93g8318c3LUbvhkfNGalBY/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+16. **Demirci, S.**, Sahin E. & Teksoz, G. (2020). Redefining Urbanization: in the views of university students. \[Paper presentation\]. 5th International Symposium on Environment and Morals, Turkey <a href = "https://i-sem.info/en" target="_blank">{{< fa link >}}</a> <a href = "https://drive.google.com/file/d/1aljEKt9YOpiFoMKLy-eBKi1THG1SxHE8/view?usp=share_link" target="_blank"> {{< fa book-bookmark >}}</a> <a href = "https://drive.google.com/file/d/1VeXl5orVvJ6z9YOyk_hoZxe7fYUZYzE3/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+15. **Demirci, S.** & Teksoz, G. (2020). Pre-service Teachers’ Perceptions on the Interactions between COVID-19 Pandemic and the Environment. \[Paper presentation\]. 5th International Symposium on Environment and Morals, Turkey <a href = "https://i-sem.info/en" target="_blank">{{< fa link >}}</a> <a href = "https://drive.google.com/file/d/1aljEKt9YOpiFoMKLy-eBKi1THG1SxHE8/view?usp=share_link" target="_blank"> {{< fa book-bookmark >}}</a>
+
+</p>
+
+<p>
+
+14. **Demirci, S.** & Teksoz, G. (2018). Pre-service Science Teachers’ Skills on Problem/Issue Analysis in Environmental Education. \[Paper presentation\]. ERPA International Congresses on Education, Istanbul, Turkey <a href = "https://www.erpacongress.com/upload/dosya/erpa-2018-e-book-of-proceedings-2018_with-isbn_15bc882e42ce0a.pdf" target="_blank"> {{< fa book-bookmark >}}</a> <a href = "https://drive.google.com/file/d/1DbYbzMVFpUcWeuZjgNUSWg4xhUAEaLkf/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+13. Teksoz, G. & **Demirci, S.** (2017). About the Context of Climate Change Education for Sustainability: In the Words of University Students. \[Paper presentation\]. 12th Biannual Conference of the European Science Research Association (ESERA), Dublin, Republic of Ireland <a href = "https://www.dropbox.com/s/ni7rlwfghggu4eq/ESERA-2018-Printed-Programme-14.8.17.pdf?dl=0" target="_blank"> {{< fa file-lines >}}</a> <a href = "https://drive.google.com/file/d/1IO96sz0CQaWHzIY460lwP_L0qn5T5k5V/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+12. **Demirci, S.**, Kaplan, G., Cengizoglu, S., & Sen, M. (2017). Pre-service teachers’ Understandings of sustainability based on ontological entities. \[Paper presentation\]. 26th International Conference on Educational Sciences, Antalya, Turkey <a href = "https://drive.google.com/file/d/1k4JZeJnBb3SNmb3-mlIX0BUjVkmTUlFC/view?usp=share_link" target="_blank"> {{< fa file-lines >}}</a> <a href = "https://drive.google.com/file/d/1zfU0uUB5BJT-DE_O1ZqNy9pTezxk2uvQ/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+11. Cengizoglu, S. & **Demirci, S.** (2016). Türkiye’de Yaşayan Çocuklar ve Çevre-İnsan İlişkisi: Bir İçerik Analizi Çalişmasi \[Human-Environment Interactions of Children in Turkey: A Content Analysis\]. UFBMEK 2016 (National Science and Mathematics Education Congress of Turkey), Trabzon, Turkey <a href = "https://openaccess.mef.edu.tr/xmlui/bitstream/handle/20.500.11779/514/Bildiri-%C3%96zet-Kitap%C3%A7%C4%B1%C4%9F%C4%B1.pdf?sequence=3&isAllowed=y" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+10. **Demirci, S.** & Cengizoglu, S. (2016). Türkiye’de Okul Öncesi Dönemde Fen Eğitimi’nde Yapilan Çalişmalarin Bölgelere, Değişkenlere ve Örneklem Gruplarina Göre İçerik Analizi \[A Content Analysis of Studies in Preschool Science Education in Turkey by Regions, Variables Used and Sample Groups\]. \[Poster presentation\]. UFBMEK 2016, Trabzon, Turkey <a href= "https://drive.google.com/file/d/1i2xsSsXWxePk80cbvw6usVaHhHh2W_7c/view?usp=share_link" target="_blank"> {{< fa chart-pie >}}</a>
+
+</p>
+
+<p>
+
+9.  **Demirci, S.** & Sahin E. (2016). An Analysis of Turkish Middle School Science Education Program Placing Climate Change Issues in The Context of Education for Sustainable Development. \[Paper presentation\]. the 14th International JTEFS/BBCC Conference Sustainable Development, Culture, Education: Innovations and Challenges of Teacher Education for Sustainable Development, Konya, Turkey
+
+</p>
+
+<p>
+
+8.  **Demirci, S.** (2016). The Context of Sustainable Development in Turkish Elementary Science Curriculum. \[Paper presentation\]. the 14th International JTEFS/BBCC Conference Sustainable Development, Culture, Education: Innovations and Challenges of Teacher Education for Sustainable Development, Konya, Turkey
+
+</p>
+
+<p>
+
+7.  **Demirci, S.**, Sahin E. & Teksoz, G. (2015). Is the Carrying Capacity Exceeded? Preservice Teachers’ Beliefs on Human Population Growth. \[Roundtable Discussion\]. The annual meeting of North American Association for Environmental Education, San Diego, California, U.S.A. <a href = "https://drive.google.com/file/d/1e8SUsiPjwaDdaydQV680lpNORPS8fXtz/view?usp=share_link" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+<p>
+
+6.  **Demirci, S.**, Sahin E. & Teksoz, G. (2015). An Exploration of University Students’ Beliefs on the Sustainable Growth of Human Population. \[Paper presentation\]. 8th World Environmental Education Congress (WEEC), Gothenburg, Sweden <a href = "https://weec2015.weecnetwork.org/" target="_blank">{{< fa link >}}</a> <a href = "https://drive.google.com/file/d/1shuVtXX8W9_Y7PoAr-v1flAtgdeUs3m9/view?usp=share_link" target="_blank"> {{< fa file-lines >}}</a> <a href = "https://drive.google.com/file/d/1cVaG0nS243RMEbYY7oyH-ZRxYWsn9iqR/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+5.  **Demirci, S.** & Teksoz, G. (2015). ESD in Higher Education: University students’ perceptions of sustainability and its relation to their self-efficacy beliefs to integrate sustainability into their profession and daily lives. \[Poster presentation\]. the Pathways to the Future: Education for Sustainable Development, Tallinn, Estonia <a href = "https://drive.google.com/file/d/1VQ_kpGZ6osOIeK2rKH4bj4IJDua9fNxL/view?usp=sharing" target="_blank"> {{< fa file-lines >}}</a> <a href= "https://drive.google.com/file/d/1GkD1mCl9Ms2mJqxdOLG352ohNe5aD-Hd/view?usp=share_link" target="_blank"> {{< fa chart-pie >}}</a>
+
+</p>
+
+<p>
+
+4.  **Demirci, S.** & Teksoz, G. (2014). Üniversite Öğrencilerinin Sürdürülebilir Kalkınma Kavramını Gelecekteki Meslekleri Ve Günlük Yaşamlarına Birleştirmek Konusundaki Öz-yeterlik İnanışları. \[Paper presentation\]. UFBMEK 2014, Adana, Turkey
+
+</p>
+
+<p>
+
+3.  **Demirci, S.**, Sahin E. & Teksoz, G. (2014). What does a Survey Study on Beliefs towards Human Population Growth Imply for Teacher Education? \[Paper presentation\]. EJER 2014 Congress, İstanbul, Turkey <a href = "https://ejercongress.org/2014/" target="_blank">{{< fa link >}}</a>
+
+</p>
+
+<p>
+
+2.  **Demirci, S.**, Sahin E. & Teksoz, G. (2013). Determining Pre-service Teachers’ Beliefs towards Human Population Growth. \[Roundtable Discussion\]. The annual meeting of North American Association for Environmental Education, Baltimore, Maryland, U.S.A. <a href = "https://drive.google.com/file/d/1JdAmBbiFuCFGvo9JMJKTIuiWE86c3r-c/view?usp=share_link" target="_blank"> {{< fa file-lines >}}</a> <a href = "https://convention2.allacademic.com/one/naaee/naaee13/" target="_blank"> {{< fa link >}}</a>
+
+</p>
+
+<p>
+
+1.  **Cokoglu, S.** & Sahin, E. (2012). Beliefs toward Population Growth in Turkey. \[Paper presentation\]. 1. Ulusal Disiplinlerarası Cevre Kongresi, Sakarya, Turkey
+
+</p>
+
+# Science Education
+
+## Peer-Reviewed Publications
+
+<p>
+
+1.  **Demirci, S.**, Yilmaz, A., & Sahin, E. (2016). Lise ve üniversite öğrencilerinin atomun yapısı ile ilgili zihinsel modellerine genel bir bakış. \[An Overview of High School and University Students' Mental Models of the Structure of the Atom\]. *Turkiye Kimya Dernegi Dergisi, Kisim C: Kimya Egitimi, 1*(1), 87-106. <a href = "https://dergipark.org.tr/en/pub/jotcsc/issue/30533/330312" target="_blank"> {{< fa file-lines >}}</a>
+
+</p>
+
+## Conference Papers/Presentations <sup>†</sup>
+
+<p>
+
+7.  **Demirci, S.**, Sahin E. & Teksoz, G. (2021). Middle School Students’ Perceptions on the Interactions among Water Cycle, Global Warming, and Climate Change. \[Paper presentation\]. European Conference on Educational Research, Geneva, Switzerland <a href = "https://eera-ecer.de/ecer-programmes/conference/26/contribution/50838/" target="_blank">{{< fa link >}}</a> <a href= "https://drive.google.com/file/d/1B6fxqdtqb9nmFwyQRCInvKh_NdnTWS99/view?usp=share_link" target="_blank"> {{< fa chart-pie >}}</a> <a href="https://drive.google.com/file/d/1EbV9umjzHm93g8318c3LUbvhkfNGalBY/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+6.  **Demirci, S.** (2018). Middle School Students’ Mental Models of the Water Cycle. \[Paper presentation\]. ERPA International Congresses on Education, Istanbul, Turkey <a href = "https://www.erpacongress.com/upload/dosya/erpa-2018-e-book-of-proceedings-2018_with-isbn_15bc882e42ce0a.pdf" target="_blank"> {{< fa book-bookmark >}}</a> <a href="https://drive.google.com/file/d/1HnQ_Z6KgBFMZfK-J5KF4jW5MQ_dPNAz6/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+5.  **Demirci, S.** & Sen, M. (2016). Pre-Service Science Teachers' Misconceptions About Density and Buoyancy. \[Paper presentation\]. The annual meeting of NARST International Conference toward Equity and Justice: Many Different Voices, Cultures, and Languages in Science Education Research for Quality Science Learning and Teaching, Baltimore, Maryland, U.S.A <a href="https://narst.org/sites/default/files/2019-07/2016_Abstracts.pdf" target="_blank"> {{< fa file-lines >}}</a> <a href="https://drive.google.com/file/d/1eqpFAIyUVf3nw6IXehpa-4oae0BigijZ/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+4.  **Demirci, S.**, Sahin, E. & Yilmaz. A. (2015). The Effects of History of Science on Students’ Mental Models Regarding Atomic Models. \[Poster presentation\]. 11th biannual Conference of the European Science Research Association (ESERA), Helsinki, Finland <a href = "https://drive.google.com/file/d/1iE2yzRkhWDqfkFn6ISPVLRPYBsKJo-hO/view?usp=share_link" target="_blank"> {{< fa file-lines >}}</a> <a href= "https://drive.google.com/file/d/1urvfk39iiJkTz_2dV2l5iFcpK5Q1-fM9/view?usp=share_link" target="_blank"> {{< fa chart-pie >}}</a> <a href="https://drive.google.com/file/d/1yBWkmymJQH6i6DaBRzoK2iQS02B7OO5K/view?usp=share_link" target="_blank"> {{< fa desktop >}}</a>
+
+</p>
+
+<p>
+
+3.  Yilmaz, A., Sahin, E. & **Demirci, S.** (2015). Lise ve Üniversite Öğrencilerinin Atomun Yapısı ile İlgili Zihinsel Modellerine Genel Bir Bakış. \[Paper presentation\]. 4. Ulusal Kimya Eğitimi Kongresi, Balıkesir, Turkey
+
+</p>
+
+<p>
+
+2.  **Demirci, S.** & Sen, M. (2015). Fen Bilgisi Öğretmen Adaylarının Yoğunluk Konusunda Kavram Yanılgılarının Belirlenmesi. \[Paper presentation\]. 2. Ulusal Fizik Eğitimi Kongresi, Ankara, Turkey
+
+</p>
+
+<p>
+
+1.  Sahin, E., Yilmaz. A & **Demirci, S.** (2015). A Review of Elementary Students’ Conceptual Understandings of ‘Atom. \[Paper presentation\]. International Organization for Science and Technology Education (IOSTE), İstanbul, Turkey
+
+</p>
+
+<p><sup>†</sup> Some works are cross-listed under *Science Education* and *Environmental & Sustainability Education*. This is because certain works are relevant to both fields.</p>
+
+# Other Publications
+
+## Book Chapters about Education Policies
+
+5.TEDMEM. (2022). Seçimlerde eğitimin yeri: siyasi partilerin vaatleri, seçmenlerin beklentileri \[The role of education in elections: promises of political parties, expectations of voters\] (TEDMEM Güncel Yayınlar Dizisi 7). Türk Eğitim Derneği. ISBN: 978-605-74377-3-0. [{{< fa bookmark >}}](https://tedmem.org/yayinlar-detay/seci-mlerde-egi-ti-mi-n-yeri-si-yasi-parti-leri-n-vaatleri-secmenleri-n-beklenti-leri)
+
+4.Demirci S. (2021). Öğretmenler, öğrenme ortamları ve okullar \[Teachers, learning environments, and schools\]. In TEDMEM (Ed.). Bir bakışta eğitim 2021 \[Education at a Glance 2021\]. [{{< fa bookmark >}}](https://tedmem.org/yazilar-detay/bir-bakista-egitim-2021)
+
+3.Demirci S. (2022). Öğretmenlik ve mesleki süreç \[Teaching and teacher education\]. In TEDMEM (Ed.). 2021 eğitim değerlendirme raporu \[2021 education assessment report\]. (TEDMEM Değerlendirme Dizisi 8) (pp.147-159). Türk Eğitim Derneği. ISBN: 978-605-74377-2-3. [{{< fa bookmark >}}](https://tedmem.org/yayinlar-detay/2021-egi-ti-m-degerlendi-rme-raporu)
+
+2.TEDMEM (2021). 20. Millî Eğitim Şûrası konularına ilişkin görüş ve öneriler \[Remarks and Recommendations on the themes of the 20th National Education Council\] (TEDMEM Güncel Yayınlar Dizisi 6). Türk Eğitim Derneği. ISBN: 978-605-74377-1-6. [{{< fa bookmark >}}](https://tedmem.org/yayinlar-detay/20-mi-lli-egi-ti-m-surasi-konularina-i-li-ski-n-gorus-ve-oneri-ler)
+
+1.Demirci S. (2021). Salgın sürecinde dünyada ve türkiye’de eğitimin bir yılı \[One year in education in the world and in Turkey during the pandemic\]. In TEDMEM (Ed.). Türkiye’nin telafi eğitimi yol haritası \[Turkey's education recovery roadmap\] (TEDMEM Analiz Dizisi 9) (pp.7-22). Türk Eğitim Derneği. ISBN: 978-605-74377-0-9. [{{< fa bookmark >}}](https://tedmem.org/yayinlar-detay/turki-ye-ni-n-telafi-egi-ti-mi-yol-hari-tasi)

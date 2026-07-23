@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sinem Demirci"
+  navbar:
+    background: black
+    foreground: white
+    right:
+      - text: "Teaching"
+        href: teaching.qmd
+
+      - text: "Research"
+        href: research.qmd
+
+      - text: "Projects"
+        href: projects.qmd
+
+      - text: "Workshops & Talks"
+        href: invited_talks.qmd
+      
+      - text: "Blog"
+        href: blog.qmd
+
+      - text: "More..."
+        menu:
+          - text: "Grants, Awards & Scholarships"
+            href: awards_scholarships.qmd
+          - text: "Service, Mentoring & Community Engagement"
+            href: services.qmd
+          - text: "CV"
+            href: CV_Sinem_Demirci_2026.pdf
+
+      - icon: github
+        href: https://github.com/sinemdemirci
+
+format:
+  html:
+    theme: cosmos
+    css: styles.css
+
+editor: visual

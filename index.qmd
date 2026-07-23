@@ -1,0 +1,53 @@
+---
+title: "Sinem Demirci"
+image: sinem_demirci_2.jpeg
+about:
+  template: trestles
+  links:
+    - text: ORCID
+      href: "https://orcid.org/0000-0002-2095-0674"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=r_R0R6wAAAAJ&hl=tr"
+    - icon: envelope
+      text: Email
+      href: "mailto:sdemirci@calpoly.edu"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/drsinemdemirci/"
+comments: false
+---
+
+::: column-page
+### Bio
+
+I am a Full-Time Lecturer in the Statistics Department at California Polytechnic State University (Cal Poly).
+
+My interdisciplinary research spans Statistics and Data Science Education and Environmental and Sustainability Education.
+
+I am a quantitative researcher in education and a qualitative researcher in statistics and data science education. Yes, you read that correctly. I use quantitative research methodologies to analyze large educational datasets and investigate teaching and learning at scale. At the same time, my work in Statistics and Data Science Education primarily employs qualitative research methodologies to better understand instructional practices, curriculum development, and students' learning experiences.
+
+My research in Environmental and Sustainability Education exists in a parallel research universe. I love to read, write, and think about how people make sense of complex adaptive systems, what current educational approaches overlook, and how we might design learning experiences that cultivate systems literacy to live in a better planet.
+
+You can explore my publications and ongoing research throughout this website.
+
+### Academic and Professional Appointments
+
+|  |  |  |
+|:------------------|:-------------------------|:--------------------------|
+| 2023 - Present | Statistics Department, <b> <a href = 'https://statistics.calpoly.edu/' target="_blank"> Cal Poly </b> </a> | Full-Time Lecturer |
+| 2022 - 2023 | Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> UCL </b> </a> | (Postdoc) Visiting Researcher / Lecturer |
+| 2021 - 2022 | <b> <a href = 'https://ted.org.tr/en/tedmem/' target="_blank"> TEDMEM </b> </a> (Think Tank) | Social and Educational Research Specialist |
+| 2013 - 2020 | Dept. of Math. & Sci. Education, <b> <a href = 'https://mse.metu.edu.tr/en' target="_blank"> METU </b> </a> | Teaching & Research Assistant |
+
+### Education
+
+<b> <a href = 'https://metu.edu.tr' target="_blank"> Middle East Technical University </b> </a> \| Ankara, Turkey
+
+|       |                                              |
+|:------|:---------------------------------------------|
+| Ph.D. | Elementary (Science) Education               |
+| M.S.  | Statistics                                   |
+| M.S.  | Elementary Science and Mathematics Education |
+| B.S.  | Elementary Science Education                 |
+:::

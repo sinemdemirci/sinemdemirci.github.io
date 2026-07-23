@@ -1,0 +1,26 @@
+---
+title: ""
+---
+
+::: column-page
+## Grants and Sponsorship
+
+| Year | Organization | Project | Amount | Role |
+|----|----|----|---:|----|
+| 2025 | The Section on Statistics and Data Science Education of the American Statistical Association | Exploring Faculty Motivation and Practices Using Universal Design for Instruction in Introductory Statistics/Data Science Classrooms | \$500 | Co-PI |
+| 2023 | UCL, Mathematical and Physical Sciences | PCK of Introductory Data Science Instructors | £750 | PI |
+
+<p>
+
+</p>
+
+## Awards and Scholarships
+
+| Year | Organization | Award |
+|----|----|----|
+| 2024 | Hot Topic Winner | eCOTS 2024 |
+| 2021 | Scientific and Technological Research Council of Türkiye (TÜBİTAK) | 2219 – Postdoctoral Research Scholarship |
+| 2020 | European Educational Research Association (ECER) | Bursary Winner for ECER 2020 |
+| 2015 | Middle East Technical University (METU) | Thesis of the Year |
+| 2013 | Scientific and Technological Research Council of Türkiye (TÜBİTAK) | 2224-A International Scientific Events Support Program |
+:::

@@ -4,3 +4,7 @@
 a{
   color:blue;
 }
+.tiny-note {
+  font-size: 0.6rem;
+  line-height: 1.35;
+}
