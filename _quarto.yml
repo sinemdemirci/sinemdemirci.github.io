@@ -34,7 +34,8 @@ website:
 
       - icon: github
         href: https://github.com/sinemdemirci
-
+  page-footer:
+    right: "Website made with Quarto, by me!"
 format:
   html:
     theme: cosmos

@@ -1,5 +1,6 @@
 ---
 title: "Sinem Demirci"
+subtitle: "*Pronounced:* **SEE-nem deh-meer-jee**"
 image: sinem_demirci_2.jpeg
 about:
   template: trestles
@@ -21,15 +22,11 @@ comments: false
 ::: column-page
 ### Bio
 
-I am a Full-Time Lecturer in the Statistics Department at California Polytechnic State University (Cal Poly).
-
-My interdisciplinary research spans Statistics and Data Science Education and Environmental and Sustainability Education.
+I am a Lecturer in the Statistics Department at Cal Poly. My interdisciplinary research spans Statistics & Data Science Education and Environmental & Sustainability Education.
 
 I am a quantitative researcher in education and a qualitative researcher in statistics and data science education. Yes, you read that correctly. I use quantitative research methodologies to analyze large educational datasets and investigate teaching and learning at scale. At the same time, my work in Statistics and Data Science Education primarily employs qualitative research methodologies to better understand instructional practices, curriculum development, and students' learning experiences.
 
 My research in Environmental and Sustainability Education exists in a parallel research universe. I love to read, write, and think about how people make sense of complex adaptive systems, what current educational approaches overlook, and how we might design learning experiences that cultivate systems literacy to live in a better planet.
-
-You can explore my publications and ongoing research throughout this website.
 
 ### Academic and Professional Appointments
 
@@ -51,3 +48,4 @@ You can explore my publications and ongoing research throughout this website.
 | M.S.  | Elementary Science and Mathematics Education |
 | B.S.  | Elementary Science Education                 |
 :::
+
