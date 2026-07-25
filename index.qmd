@@ -24,7 +24,7 @@ comments: false
 
 I am a Lecturer in the Statistics Department at Cal Poly. My interdisciplinary research spans Statistics & Data Science Education and Environmental & Sustainability Education.
 
-I am a quantitative researcher in education and a qualitative researcher in statistics and data science education. Yes, you read that correctly. I use quantitative research methodologies to analyze large educational datasets and investigate teaching and learning at scale. At the same time, my work in Statistics and Data Science Education primarily employs qualitative research methodologies to better understand instructional practices, curriculum development, and students' learning experiences.
+I am a quantitative researcher in education and a qualitative researcher in statistics and data science education. Yes, you read that correctly. I use quantitative research methodologies to analyze large educational datasets and investigate teaching and learning at scale. At the same time, my work in Statistics and Data Science Education primarily employs qualitative research methodologies because the fields are relatively young, and many of their most important questions require an in-depth understanding of learners' experiences, instructional practices, and curriculum design before they can be examined at scale.
 
 My research in Environmental and Sustainability Education exists in a parallel research universe. I love to read, write, and think about how people make sense of complex adaptive systems, what current educational approaches overlook, and how we might design learning experiences that cultivate systems literacy to live in a better planet.
 
@@ -48,4 +48,3 @@ My research in Environmental and Sustainability Education exists in a parallel r
 | M.S.  | Elementary Science and Mathematics Education |
 | B.S.  | Elementary Science Education                 |
 :::
-

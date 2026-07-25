@@ -9,7 +9,7 @@ editor: visual
 ## Courses
 
 | **Course Code** | **Course Name** | **Term** |
-|:------------------|:-----------------------------|:-----------------------|
+|:------------------|:----------------------------|:-----------------------|
 | STAT 1110 | Applied Statistical Concepts and Methods | Fall 2026 |
 | STAT 218 | Applied Statistics for the Life Sciences | 8 Quarters (2023 - 2026) <a href = "https://stat218-2026.github.io/website/" target="_blank"> {{< fa desktop >}}</a> |
 | STAT 130 | Introduction to Statistical Reasoning | 2 Quarters Fall 25 - Win 26) <a href = "https://drive.google.com/file/d/17Vdp4X4jrMDGbvmmmEaIDIQcViE_CEI_/view?usp=sharing" target="_blank">{{< fa file-lines >}}</a> |
@@ -38,7 +38,7 @@ As a teaching/research assistant for 8 academic years, I delivered mostly the tu
 ## Courses
 
 | **Course Code** | **Course Name** | **Number of Semesters** |
-|:-------------|:-----------------------------------|:-----------------------|
+|:----------------|:--------------------------------|:---------------------|
 | MSE 501 | Educational Statistics | 8 Semesters (2014 – 2020) |
 | MSE 409 & 410 | Practice Teaching, I & II | 6 Semesters (2016 – 2020) |
 | MSE 487 | Environmental Science | 5 Semesters (2014 – 2020) |
@@ -54,8 +54,6 @@ As a teaching/research assistant for 8 academic years, I delivered mostly the tu
 | MSE 301 | Methods of Science Teaching in Middle Schools I | 1 Semester (Spr 2017) |
 | MSE 302 | Methods of Science Teaching in Middle Schools II | 1 Semester (Spr 2018) |
 | MSE 531 | Readings in Science Education | 1 Semester (Fall 2017) |
-| MSE 502 | Research Methods and Ethics | 1 Semester (Spr 2019) |
-| MSE 602 | Advanced Educational Research | 1 Semester (Fall 2016) |
 
 ## Responsibilities
 
