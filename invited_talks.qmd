@@ -14,15 +14,21 @@ title: ""
 ## Invited Talks
 
 <p>
+
 28. Demirci S. Curiosity as a Catalyst for Learning Statistics. Invited professional learning session at Stats&DataNet: Statistics and Data Science Across Disciplines, American Statistical Association, online, November 17, 2026. *(forthcoming)*
-    </p>
-    
-<p>
-27. Demirci S. Meet ITSA: Our Mission, Community, and Vision. Invited Lightning Talk at the International Day of Women in Statistics & Data Science Conference, Online, October 6, 2026. *(forthcoming)*
+
     </p>
 
 <p>
+
+27. Demirci S. Meet ITSA: Our Mission, Community, and Vision. Invited Lightning Talk at the International Day of Women in Statistics & Data Science Conference, Online, October 6, 2026. *(forthcoming)*
+
+    </p>
+
+<p>
+
 26. Demirci S. Nurturing Systems Literacy for a Changing Climate. Invited talk at TED University, Online, September 14, 2026. *(forthcoming)*
+
     </p>
 
 <p>
@@ -116,4 +122,4 @@ title: ""
     </p>
 
 <p>1-10. Demirci, S. Climate Change: Science, Impacts, and Solutions. A total of 10 talks were given as a member of Climate Reality Leadership Corps at the Middle East Technical University between October 2013 - June 2014, Ankara, Türkiye</p>
-:::
+
