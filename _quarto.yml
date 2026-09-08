@@ -20,22 +20,22 @@ website:
       - text: "Workshops & Talks"
         href: invited_talks.qmd
       
+      - text: "CV"
+        href: CV_Sinem_Demirci_2026.pdf
+
       - text: "Blog"
         href: blog.qmd
-
+              
       - text: "More..."
         menu:
           - text: "Grants, Awards & Scholarships"
             href: awards_scholarships.qmd
           - text: "Service, Mentoring & Community Engagement"
             href: services.qmd
-          - text: "CV"
-            href: CV_Sinem_Demirci_2026.pdf
 
       - icon: github
         href: https://github.com/sinemdemirci
-  page-footer:
-    right: "Website made with Quarto, by me!"
+
 format:
   html:
     theme: cosmos

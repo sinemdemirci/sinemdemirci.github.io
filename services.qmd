@@ -33,8 +33,9 @@ toc: true
 ## Statistics and Data Science Education
 
 |  |  |  |
-|------------------------|------------------------|-----------------------:|
-| The International Turkish Statistical Association (ITSA) Education and Career Development Committee | Chair | 2026 |
+|------------------------|------------------------|------------------------|
+| 2027 U.S. Conference on Teaching Statistics USCOTS | Program Committee Member | 2026–Present |
+| The International Turkish Statistical Association (ITSA), Education and Career Development Subcommittee | Subcommittee Chair | 2026 |
 | Journal of Statistics and Data Science Education | Reviewer | 2024–Present |
 | $12^{\text{th}}$ International Conference on Teaching Statistics (ICOTS12) Proceedings | Reviewer | 2026 |
 | Undergraduate Statistics Project Competition and Electronic Undergraduate Statistics Research Conference | Judge | Fall 2025, Spr 2023, Fall 2023, Fall 2022 |

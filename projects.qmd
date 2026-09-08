@@ -48,13 +48,23 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-**Project title:** Coastal California Classroom Initiative – Exploring the Impact of Sonification on Identifying Skewed Distributions in Introductory Statistics
+**Project title:** Sonification in the Statistics Classroom: Can students hear the shape of a distribution?	
+
+**PI:** Dr. Julia Schedler – Cal Poly, San Luis Obispo
+
+**Co-Investigators:** Dr. Sinem Demirci – Cal Poly San Luis Obispo
+
+**Project Period:** October 2024–Present
+
+------------------------------------------------------------------------
+
+**Project title:** Coastal California Classroom Initiative
 
 **PI:** Jeanine Scaramozzino – Cal Poly, San Luis Obispo
 
-**Co-Investigators:** Dr. Julia Schedler, Dr. Sinem Demirci – Cal Poly San Luis Obispo
+**Co-Investigators:** Dr. Julia Schedler, Aaron C. Liggett, Dr. Sinem Demirci – Cal Poly San Luis Obispo
 
-**Partners/Collaborators:** Donya Ava Behroozi, Annica Wu, Josh Schneider, Aaron C. Liggett, – Cal Poly San Luis Obispo
+**Partners/Collaborators:** Donya Ava Behroozi, Annica Wu, Josh Schneider – Cal Poly San Luis Obispo
 
 **Funding:** CET Seed Grants
 

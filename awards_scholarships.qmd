@@ -5,10 +5,11 @@ title: ""
 ::: column-page
 ## Grants and Sponsorship
 
-| Year | Organization | Project | Amount | Role |
-|----|----|----|---:|----|
-| 2025 | The Section on Statistics and Data Science Education of the American Statistical Association | Exploring Faculty Motivation and Practices Using Universal Design for Instruction in Introductory Statistics/Data Science Classrooms | \$500 | Co-PI |
-| 2023 | UCL, Mathematical and Physical Sciences | PCK of Introductory Data Science Instructors | £750 | PI |
+| Year | Organization | Project | Role |
+|---------------|---------------|---------------|---------------|
+| 2026 | The Frost Fund,  Bailey College of Science and Mathematics | Designing an Accessible and Inclusive Research Environment for Optics and Laser Laboratories | Co-PI |
+| 2025 | The Section on Statistics and Data Science Education of the American Statistical Association | Exploring Faculty Motivation and Practices Using Universal Design for Instruction in Introductory Statistics/Data Science Classrooms | Co-PI |
+| 2023 | UCL, Mathematical and Physical Sciences | PCK of Introductory Data Science Instructors | PI |
 
 <p>
 
@@ -17,7 +18,7 @@ title: ""
 ## Awards and Scholarships
 
 | Year | Organization | Award |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | 2024 | Hot Topic Winner | eCOTS 2024 |
 | 2021 | Scientific and Technological Research Council of Türkiye (TÜBİTAK) | 2219 – Postdoctoral Research Scholarship |
 | 2020 | European Educational Research Association (ECER) | Bursary Winner for ECER 2020 |
