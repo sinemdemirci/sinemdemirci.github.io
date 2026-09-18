@@ -16,7 +16,7 @@ editor: visual
 
 <p>
 
-4.  Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. (2025, Preprint). Understanding Pedagogical Content Knowledge of Data Science Instructors: An Inaugural Framework. <a href = "https://doi.org/10.48550/arXiv.2508.14009" target="_blank"> {{< fa file-lines >}}</a>
+4.  Demirci S., Dogucu, M. Zieffler A. & Rosenberg, J.M. (2026, Preprint). Understanding Pedagogical Content Knowledge of Data Science Instructors: An Inaugural Framework. <a href = "https://doi.org/10.48550/arXiv.2508.14009" target="_blank"> {{< fa file-lines >}}</a>
 
 </p>
 
@@ -54,7 +54,7 @@ editor: visual
 
 <p>
 
-7.  Tackett, M. & **Demirci, S.** (2026). Opportunities and Barriers to Implementing Universal Design for Instruction in Introductory Statistics and Data Science Classrooms. \[Breakout Session\]. Electronic Conference On Teaching Statistics (eCOTS 2026), Online.*"* <a href = "https://www.causeweb.org/cause/ecots/ecots26/program/breakouts/1A" target="_blank">{{< fa file-lines >}}</a>
+7.  Tackett, M. & **Demirci, S.** (2026). Opportunities and Barriers to Implementing Universal Design for Instruction in Introductory Statistics and Data Science Classrooms. \[Breakout Session\]. Electronic Conference On Teaching Statistics (eCOTS 2026), Online. <a href = "https://www.causeweb.org/cause/ecots/ecots26/program/breakouts/1A" target="_blank">{{< fa file-lines >}}</a>
 
 </p>
 
@@ -312,7 +312,7 @@ editor: visual
 
 <p><sup>†</sup> Some works are cross-listed under *Science Education* and *Environmental & Sustainability Education*. This is because certain works are relevant to both fields.</p>
 
-# Other Publications
+# Book Chapters and Reports
 
 ## Book Chapters about Education Policies
 

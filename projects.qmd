@@ -36,9 +36,9 @@ editor: visual
 
 **Project title:** Exploring the Role of Curiosity in Learning Statistics
 
-**PI:** Dr. Beth Chance
+**PI:** Dr. Beth Chance – Cal Poly San Luis Obispo
 
-**Co-Investigators:** Dr. Sinem Demirci – Cal Poly San Luis Obispo
+**Co-Investigator:** Dr. Sinem Demirci – Cal Poly San Luis Obispo
 
 **Student Researchers:** Visruth Srimath Kandali, Amy Chau Troung – Cal Poly San Luis Obispo
 
@@ -48,11 +48,11 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-**Project title:** Sonification in the Statistics Classroom: Can students hear the shape of a distribution?	
+**Project title:** Sonification in the Statistics Classroom: Can students hear the shape of a distribution?
 
 **PI:** Dr. Julia Schedler – Cal Poly, San Luis Obispo
 
-**Co-Investigators:** Dr. Sinem Demirci – Cal Poly San Luis Obispo
+**Co-Investigator:** Dr. Sinem Demirci – Cal Poly San Luis Obispo
 
 **Project Period:** October 2024–Present
 
@@ -64,7 +64,7 @@ editor: visual
 
 **Co-Investigators:** Dr. Julia Schedler, Aaron C. Liggett, Dr. Sinem Demirci – Cal Poly San Luis Obispo
 
-**Partners/Collaborators:** Donya Ava Behroozi, Annica Wu, Josh Schneider – Cal Poly San Luis Obispo
+**Student Researchers:** Donya Ava Behroozi, Annica Wu, Josh Schneider – Cal Poly San Luis Obispo
 
 **Funding:** CET Seed Grants
 
@@ -74,7 +74,7 @@ editor: visual
 
 **Project title:** Pedagogical Content Knowledge in Data Science Education: An Assessment of Readiness to Teach Data Science in Higher Education
 
-**Principle Investigator:** Dr Sinem Demirci
+**Principle Investigator:** Dr Sinem Demirci – University College London
 
 **Co-PI**: Dr Mine Dogucu – University College London
 

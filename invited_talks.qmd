@@ -27,7 +27,7 @@ title: ""
 
 <p>
 
-26. Demirci S. Nurturing Systems Literacy for a Changing Climate. Invited talk at TED University, Online, September 14, 2026. *(forthcoming)*
+26. Demirci S. Nurturing Systems Literacy for a Changing Climate. Invited talk at TED University, Online, September 14, 2026.<a href="https://educ.tedu.edu.tr/en/whats-happening-tedu/environmental-and-climate-awareness-education-early-years-building-sustainable" target="_blank">{{< fa link >}}</a>
 
     </p>
 
@@ -123,3 +123,5 @@ title: ""
 
 <p>1-10. Demirci, S. Climate Change: Science, Impacts, and Solutions. A total of 10 talks were given as a member of Climate Reality Leadership Corps at the Middle East Technical University between October 2013 - June 2014, Ankara, Türkiye</p>
 
+\:::
+:::
