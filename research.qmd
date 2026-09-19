@@ -10,7 +10,7 @@ editor: visual
 
 <p>
 
-5.  Chance, B., Demirci, S., Grove, R., Ravat U., Kandali, V.S., Wilcox, D., & Truong A. C. (2026, in press). Measuring and evoking curiosity in statistics/probability students. In Proceedings of the 12th International Conference on Teaching Statistics, Brisbane, Australia.
+5.  Chance, B., **Demirci, S.**, Grove, R., Ravat U., Kandali, V.S., Wilcox, D., & Truong A. C. (2026, in press). Measuring and evoking curiosity in statistics/probability students. In Proceedings of the 12th International Conference on Teaching Statistics, Brisbane, Australia.
 
 </p>
 
