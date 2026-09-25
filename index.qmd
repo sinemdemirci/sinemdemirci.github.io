@@ -1,5 +1,6 @@
 ---
 title: "Sinem Demirci"
+subtitle: "*(SEE-nem deh-meer-jee)*"
 image: sinem_demirci_2.jpeg
 about:
   template: trestles
@@ -34,7 +35,7 @@ You can explore my publications and ongoing research throughout this website.
 ### Academic and Professional Appointments
 
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | 2023 - Present | Statistics Department, <b> <a href = 'https://statistics.calpoly.edu/' target="_blank"> Cal Poly </b> </a> | Full-Time Lecturer |
 | 2022 - 2023 | Dept. of Statistical Science, <b> <a href = 'https://www.ucl.ac.uk/statistics/' target="_blank"> UCL </b> </a> | (Postdoc) Visiting Researcher / Lecturer |
 | 2021 - 2022 | <b> <a href = 'https://ted.org.tr/en/tedmem/' target="_blank"> TEDMEM </b> </a> (Think Tank) | Social and Educational Research Specialist |
